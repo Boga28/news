@@ -24,9 +24,9 @@
   
   {"id":"2",
    "header":"Four Former Police Officers in Floyd Case Face Federal Charges",
-   "image":"https://github.com/Boga28/book/raw/master/Test/Four_Former_Police_Officers_in_Floyd.jpg",
+   "image":"https://github.com/Boga28/news/raw/main/images/Four_Former_Police_Officers_in_Floyd.jpg",
    "imageCaption":"In this May 25, 2020 file image from surveillance video, Minneapolis police Officers from left, Tou Thao, Derek Chauvin, J. Alexander Kueng and Thomas Lane are seen attempting to take George Floyd into custody in Minneapolis, Minn. (Court TV via AP, Pool)",
-   "authorImage":"https://github.com/Boga28/book/raw/master/Test/VOA.png",
+   "authorImage":"https://github.com/Boga28/news/raw/main/NewsChannelImages/VOA.png",
    "metin":"Four former police officers involved in the arrest of George Floyd in Minneapolis, Minnesota last year are to face a federal civil rights trial.
 A federal grand jury has decided to bring charges against the four accusing them of violating George Floyd’s constitutional rights. A grand jury is a group of citizens who study evidence to decide if there should be a trial in a legal case. The decision was made public Friday.
 Floyd died after officers restrained him on the ground during his arrest on May 25, 2020. During the arrest, Floyd repeatedly said he could not breathe in an incident which was filmed and shown all over the world.
@@ -44,11 +44,11 @@ Chauvin then restrained Floyd on the ground with his knee on Floyd’s neck for 
 Eric Nelson, Chauvin’s lawyer argued during his murder trial that the former officer acted reasonably in the situation. He said that Floyd died of existing health problems and was using drugs at the time. He also requested a new trial for Chauvin noting several issues. Among the issues was that the judge did not move the trial to another place although the incident caused violent protests in Minneapolis.
 Floyd’s arrest was captured on video by many people who gathered around the arrest. The incident brought public anger and protests, both peaceful and violent, across the country against police use of force and racial inequality.
 I’m Mario Ritter, Jr.",
-   "subtitle":"https://raw.githubusercontent.com/Boga28/book/master/Test/four_former_police.srt",
+   "subtitle":"https://raw.githubusercontent.com/Boga28/news/main/subtitle/four_former_police.srt",
    "hardWord":"",
    "authorName":"",
    "channel":"VOA News",
-   "audio":"https://raw.githubusercontent.com/Boga28/book/master/Test/four_former_police.mp3",
+   "audio":"https://raw.githubusercontent.com/Boga28/news/main/Auido/four_former_police.mp3",
    "audioLength":"5:07",
    "category":"",
    "views":"",
@@ -57,9 +57,9 @@ I’m Mario Ritter, Jr.",
   
   {"id":"1",
    "header":"Virus, Technology, Unrest Make a Stressful Year for US Teachers",
-   "image":"https://gdb.voanews.com/837822D1-5F4E-4CCA-B6DA-1B7544AF3AB7_w1023_r1_s.jpg",
+   "image":"https://github.com/Boga28/news/raw/main/images/tech.jpg",
    "imageCaption":"First-year teacher Cindy Hipps stands outside of Lagos Elementary School, at Manor Independent School District campus east of Austin, Texas (Acacia Coronado/Report for America via AP)",
-   "authorImage":"https://github.com/Boga28/book/raw/master/Test/nbc.png",
+   "authorImage":"https://github.com/Boga28/news/raw/main/NewsChannelImages/nbc.png",
    "metin":"Ana Saul Romero has seen many changes in teaching methods, testing, and technology during her forty years as a teacher. But this year, she said, has given her a lifetime’s worth of changes.
 In her first-grade class in Manor, Texas, just outside of Austin, only 12 students are inside the classroom. The other half of the class join in from home by video. Romero now stands behind a clear divider working with a pointer, a laptop, and a few other technologies to teach her students.
 Super teachers
@@ -83,11 +83,11 @@ Travis Bristol is a professor at the University of California, Berkeley. He sugg
 Romero, the first-grade teacher in Texas, was considering retiring. But she now looks forward to the new school year.
 She said, “We will have the experience of an entire year of trying... That’s what educators do. We try and we fail and we get up and we shake it off and we do it again.”
 I’m Jill Robbins.",
-   "subtitle":"https://raw.githubusercontent.com/Boga28/book/master/Test/subtitle.srt",
+   "subtitle":"https://raw.githubusercontent.com/Boga28/news/main/subtitle/Virus_Technology.srt",
    "hardWord":"",
    "authorName":"Jill Robbins",
    "channel":"NBC News",
-   "audio":"https://raw.githubusercontent.com/Boga28/book/master/Test/tech.mp3",
+   "audio":"https://raw.githubusercontent.com/Boga28/news/main/Auido/tech.mp3",
    "audioLength":"5:36",
    "category":"",
    "views":"",
