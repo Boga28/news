@@ -1,6 +1,6 @@
-/*
-{"news":[
-  {"id":"1",
+/*{"news":[
+
+  {"id":"4",
    "header":"",
    "image":"",
    "imageCaption":"",
@@ -15,13 +15,67 @@
    "category":"",
    "views":"",
    "date":"",
-   "tag":""}
-  ]}
-
-*/
+   "tag":""},
+   
+  ]}*/
 
 {"news":[
   
+
+{"id":"3",
+   "header":"News in Brief",
+   "image":"https://github.com/Boga28/news/raw/main/images/News_in_Brief.jpg",
+   "imageCaption":"© UNICEF/Amarjeet Singh",
+   "authorImage":"https://raw.githubusercontent.com/Boga28/news/main/NewsChannelImages/news_un.svg",
+   "metin":"This is the News in Brief from the United Nations.
+
+India’s new COVID-19 wave spreading like ‘wildfire’: UNICEF
+
+\tA new wave of COVID-19 infections is spreading like “wildfire” across India, leaving many youngsters destitute, the UN Children’s Fund UNICEF said on Friday.
+
+\tIn the last 24 hours, India registered nearly 4,000 coronavirus deaths and over 414,000 cases; “the highest daily case count recorded by any country in the history of (the) COVID-19 pandemic”, said Yasmin Ali Haque, UNICEF Representative in India.
+
+\tThe impact on children has been dire, she said, highlighting the increased risk of violence, as lockdowns have closed the usual places of protection for youngsters, such as school.
+
+\t“We haven’t seen yet any indication that the proportion is any different to what we saw in the first wave, however the numbers are far greater; we’ve seen the virus entering a household; it just takes one member in the household to be affected and it seems to spread like wildfire throughout the family.” 
+
+\tThere has also been a spike in illegal adoption pleas on internet platforms by families desperate to find homes for orphaned relatives, the UN official said, in a call to promote family tracing and speedier help for vulnerable families.
+
+Attacks force thousands to flee in Burkina Faso
+
+\tTo Burkina Faso now, where aid agencies are deeply concerned by violence that’s  killed 45 people and forced more than 17,000 to flee their homes in the last 10 days.
+
+\tThe alert from the UN refugee agency, UNHCR, comes after gunmen carried out attacks in three separate regions, burning down houses and killing civilians.
+
+\tThe armed groups – described in reports as jihadists - also ransacked health centres and damaged homes and shops during a series of attacks in the East, North and Sahel regions.
+
+\tUNHCR spokesperson Boris Cheshirkov told journalists in Geneva that the victims were now fleeing towards larger and more secure urban centres, often arriving “with few or no belongings”.
+
+\tThey are in urgent need of food, shelter, clean water, and health care, Mr Cheshirkov said, adding that violence in Burkina Faso has forced well over one million people to flee their homes in search of safety in the last two years.
+
+Probe call into Rio favella police operation that left 25 dead
+
+\tFinally to Brazil, and a call from the UN rights office for an independent investigation into a police operation in a Rio favella that left at least 25 dead.
+
+\tThe call from the Office of the High Commissioner for Human Rights (OHCHR) comes after police officers on the ground and in a helicopter overhead reportedly opened fire on a heavily built up residential neighbourhood during an operation against organised crime.
+
+\tOHCHR spokesperson Rupert Colville said that Thursday’s incident was probably the “deadliest” operation of its kind in more than a decade.”:
+
+\t“I think there’s sort of a widespread responsibility here, shared responsibility. Yes of course, there are political sides to it, but you have the institutions which control these operations and you have the judiciaries, you have the police, you have the judiciary, you have the ministries involved in these kind of investigations and operations. So it appears, as you say, that collectively, you know, they’re not succeeding in stopping these kind of really disturbing over the top lethal operations.”
+
+\tMr Colville noted that the operation had taken place despite a Supreme Court ruling last year which restricted police operations in Rio’s favelas during the COVID-19 pandemic.
+
+Daniel Johnson, UN News.",
+   "subtitle":"https://raw.githubusercontent.com/Boga28/news/main/subtitle/News_in_Brief.srt",
+   "hardWord":"",
+   "authorName":"",
+   "channel":"UN News",
+   "audio":"https://raw.githubusercontent.com/Boga28/news/main/Auido/News_in_Brief.mp3",
+   "audioLength":"3:20",
+   "category":"",
+   "views":"",
+   "date":"10 May 2021",
+   "tag":""},
  
   
   {"id":"2",
