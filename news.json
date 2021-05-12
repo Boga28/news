@@ -21,6 +21,53 @@
 
 {"news":[
   
+    {"id":"7",
+   "header":"Human Smuggling a Profitable Business at Immigrants’ Cost",
+   "image":"https://github.com/Boga28/news/raw/main/images/human_smugling.jpg",
+   "imageCaption":"FILE - In this April 10, 2019 file photo, migrants walk at dawn as part of a new caravan of several hundred people sets off in hopes of reaching the distant United States, in San Pedro Sula, Honduras. (AP Photo/Delmer Martinez, File)",
+   "authorImage":"https://github.com/Boga28/news/raw/main/NewsChannelImages/VOA.png",
+   "metin":"Ronald Garcia is a 39-year-old Guatemalan man who recently entered the United States illegally. He is currently at Casa Alitas, a shelter for immigrants in Tucson, Arizona. While there, he told about his border crossing.
+
+Garcia said he paid smugglers $20,000 to get him across the border. He said he had to sell all he owned to come to the US.
+
+Crossing into the United States illegally is a big business in Central and South America. Many people leave their countries due to the violence and poverty. They pay huge amounts of money and risk their lives to leave.
+
+Garcia said of his experience, “They put me in a trunk where you couldn’t breathe, and well, thank God (I survived), because they say that all those who are put there, they die.”
+
+The US Border Patrol (USBP) says illegal smuggling operations are big business.
+
+A RAND Corporation study estimated smugglers made between $200 million and $2,3 billion in 2017 transporting people into the US, mostly from Central America.
+
+USPB spokesman Mario Escalante said it is a dangerous business as well. He said smugglers sometimes abandon the migrants, steal from them, rape them and worse.
+
+Garcia agrees.
+
+“They ask for a quantity of money, and if they don’t get it by the time and date they say, they’ll kill you,” he said.
+
+Henry Cuellar is a US lawmaker from Texas. The congressional area he represents stretches from San Antonio to the border town of McAllen in southern Texas.
+
+Cuellar told VOA that smugglers also provide transport for illegal drug traffickers.
+
+But it is not just criminal organizations making money from immigrants.
+
+Private research business Dynamic Securities Analytics reports that the American financial industry also profits from the illegal business. They profit from fees connected to electronic payments made by undocumented immigrants.
+
+President Joe Biden supports extensive immigration reform. Biden has also warned migrants against making illegal border crossings.
+
+Former ambassador Roberta Jacobson is Biden’s adviser on southern border issues. She told VOA that the administration is working with foreign intelligence sources to fight human smuggling operations.
+
+I’m John Russell.",
+   "subtitle":"https://raw.githubusercontent.com/Boga28/news/main/subtitle/Human_Smuglings.srt",
+   "hardWord":"",
+   "authorName":"",
+   "channel":"VOA News",
+   "audio":"https://raw.githubusercontent.com/Boga28/news/main/Auido/Human_Smuglings.mp3",
+   "audioLength":"4",
+   "category":"",
+   "views":"",
+   "date":"2021-05-12T15:20",
+   "tag":""},
+  
    {"id":"6",
    "header":"Big News documentary explores U.S. media, polarization",
    "image":"https://github.com/Boga28/news/raw/main/images/US_Media_Polarization.jpg",
