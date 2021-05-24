@@ -1,6 +1,6 @@
 /*{"news":[
 
-  {"id":"4",
+  {"id":"1",
    "header":"",
    "image":"",
    "imageCaption":"",
@@ -15,11 +15,48 @@
    "category":"",
    "views":"",
    "date":"2021-05-11T21:11",
-   "tag":""},
+   "tag":""}, ？  ‛
+   
+      Left Quote    “                    Right Quote    ”      Apostrophe   ‛      ？
    
   ]}*/
 
 {"news":[
+  
+   {"id":"12",
+   "header":"At Least 14 Shot in Mass Shooting at New Jersey House Party",
+   "image":"https://github.com/Boga28/news/raw/main/images/14-shot-in-mass-shooting-at-new-jersey-house-party-nbc-new-york.jpg",
+   "imageCaption":"New Jersey state police said at least 14 people were shot, with two of them killed, during what they called a “mass shooting event” at a party being attended by at least 100 people in rural Cumberland County. NBC10’s Randy Gyllenhaal reports.",
+   "authorImage":"https://github.com/Boga28/news/raw/main/NewsChannelImages/NBC_New_York.jpg",
+   "metin":"Jersey where a house party turned into a night of horror in Cumberland county. We have just learned that more than a dozen people were shot. And two of them have died report a Randy Gillan hall from our sister station. NBC Philadelphia joins us now with the latest Brandy. Good morning. Hey, good morning.
+
+So we should note these are preliminary new numbers in from New Jersey state police, a very fluid situation here because this house party a 90 steam birthday party had so many people at it. Hundreds of them. Who began running for cover and running for their lives. When the gunfire started at this point, police are telling us, uh, 14 people total were shot.
+
+Two of them dead, a man and a woman, 12 others injured. I want to zoom in and show you, uh, the what‛s happening here at the scene. You can see, uh, Cruz from New Jersey state police and their canine teams, looking for evidence, a grid search underway after the shooting broke out, witnesses are telling us this was supposed to be a celebratory party, nice weather of restrictions easing.
+
+So they gathered at this large yard, uh, for a celebration, but then at midnight witnesses say they‛ve started to hear gunshots coming in from the tree line, from the woods. And that‛s when everybody started running. For cover two people died at 30 year old man and a 25 year old woman, 12 other people hit some of them having to drive themselves to hospitals all over south Jersey to have, uh, six of them rather had to drive up to Cooper and Camden.
+
+All of this happening is police are processing the scene and witnesses trying to digest the violence. This was something set up like, like, like, like they, they. Like they trapped him in that yard. Uh, enough nephew said he was having a good time. Next thing you heard was shooting. And he was running for his life.
+
+He got on the ground, he had to crawl. He stepped over a dead body, a dead body that would end up eventually being a young man that he grew up with.
+
+And the number of young people that were at this party were told now traumatized by this violence, seeing their friends and loved ones get shot a live picture here. You can see the New Jersey state police crime scene techs going in and out of the home. On the mailbox of this house, there were actually balloons and were told that really wasn‛t.
+
+Celebratory event as for the shooter or shooters, nobody has been arrested at this point, New Jersey, state police still very active in their investigation. They‛re still really trying to process how many victims they‛re dealing with since so many of them had to run or drive to different hospitals in Bridgeton or across south Jersey.
+
+A really devastating scene here. I can tell you in New Jersey governor, Phil Murphy has been in touch with the mayor of this part of Cumberland county, uh, offering assistance and resources as police here, really trying to figure out what happened and then pivoting to searching for the shooter or shooters who opened fire on the birthday party for now we‛re live in south Jersey.
+
+I‛m Randy Gyllenhaal, NBC 10 news, absolutely unfathomable. Randy. Thank you so much. We appreciate you keeping us updated on that.",
+   "subtitle":"https://raw.githubusercontent.com/Boga28/news/main/subtitle/14-shot-in-mass-shooting-at-new-jersey-house-party-nbc-new-york.srt",
+   "hardWord":"",
+   "authorName":"",
+   "channel":"NBC New York",
+   "audio":"https://raw.githubusercontent.com/Boga28/news/main/Auido/14-shot-in-mass-shooting-at-new-jersey-house-party-nbc-new-york.mp3",
+   "audioLength":"3",
+   "category":"",
+   "views":"",
+   "date":"2021-05-24T11:34",
+   "tag":""},
   
    {"id":"11",
    "header":"Asian American woman who survived brutal attack speaks out",
