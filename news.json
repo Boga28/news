@@ -14,7 +14,7 @@
    "audioLength":"",
    "category":"",
    "views":"",
-   "date":"2021-05-11T21:11",
+   "date":"2021-06-01T21:11",
    "tag":""},                                          ？  ‛
    
       Left Quote    “                    Right Quote    ”      Apostrophe   ‛      ？
@@ -22,6 +22,43 @@
   ]}*/
 
 {"news":[
+  
+    {"id":"16",
+   "header":"China announces 3-child policy to counter aging population | DW News",
+   "image":"https://github.com/Boga28/news/raw/main/images/china-announces-3-child-policy.jpg",
+   "imageCaption":"China has announced a major shift in its family planning policy: It will now allow couples to have up to three children.",
+   "authorImage":"https://github.com/Boga28/news/raw/main/NewsChannelImages/DW_News.jpg",
+   "metin":"China has announced a major shift in its family planning policy. It will now allow couples to have up to three children. The ruling communist party says it is scrapping a strict two child policy in response to the rapidly rising number of older people in the population. Beijing has enforced birth limits for four decades, but it‛s now concerned that a demographic crisis could add to pressure on its economy.
+
+And from one of the story let‛s bring in correspondent, Mathias, Berlinger, who‛s standing by in Beijing. Hi Mathias. It‛s good to see you. So tell us more about why China is enacting this policy now.
+
+Well, a few weeks ago, uh, the results of the latest census came out. China is counting its population every 10 years. And, uh, this, these results had to be delayed several times. Uh, nobody really knows why, but there has been a lot of speculation that China might have reached. It‛s peak, uh, population peak already.
+
+The census data, the officials said, no, that‛s not the case, but it is not far away. It will happen in the next two weeks or three years. And then the population will decline and China will be facing the same problems that many developed countries face an aging population, less workforce, but being on a development level and an income level that is much lower than these countries.
+
+And that could spell out. Yeah. Big problems for China. This is why it is a big concern to the government. This aging population last year was the year with the lowest birth rates, uh, in China‛s history. It was 1.2 children per women, quite far from the three children they‛re aiming at now. Yeah. You said it then, you know, there are many other countries facing this issue. So how serious is China as a demographic crisis？.
+
+Yeah. Well, the problem is that China has not reached the development levels and the income levels that other countries had reached when they started facing this problem. So, uh, basically, uh, having to feed, uh, a retired population that is, uh, So big, but with these income levels will be much more difficult than if the income levels were higher.
+
+The pension system is not very well developed, so it is a very big problem for China. So China‛s now allowing couples to have up to three children. Do you think we‛re going to see a baby boom in the coming years？
+
+Yeah, four years ago, China lifted the ban on the second child and allow people to have two children. There was a very small baby boom in the following lead. Yeah. Already the year after the birth rate started declining again, having reached their lowest point last year, the pandemic might‛ve played into this very low number as well, but the trend is clear.
+
+The numbers are declining. It is not very likely that this is going to change just because the government puts the number at three it‛s much easier to prevent people from having children than to encourage them. China‛s government is finding out. Now there are many reasons for that. One reason is that, uh, the parents will have one now.
+
+Thinking about family planning or maybe around 30 years old, they, many of them have never known families with two children. This is the one child generation. And the other thing is in the highly competitive education system, many prefer to put all their resources into one child in order to give them better chances in life, correspondent, Mathias, billing, a reporting from Beijing.
+
+Thank you very much.",
+   "subtitle":"https://raw.githubusercontent.com/Boga28/news/main/subtitle/china-announces-3-child-policy.srt",
+   "hardWord":"",
+   "authorName":"",
+   "channel":"DW News",
+   "audio":"https://raw.githubusercontent.com/Boga28/news/main/Auido/china-announces-3-child-policy.mp3",
+   "audioLength":"4",
+   "category":"",
+   "views":"",
+   "date":"2021-06-01T00:16",
+   "tag":""},   
   
     {"id":"15",
    "header":"Colombia protests one month in: 45 dead and dozens disappeared | DW News",
