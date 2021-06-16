@@ -23,6 +23,51 @@
 
 {"news":[
   
+    {"id":"17",
+   "header":"NATO Leaders Speak Out on China, Russia",
+   "image":"https://github.com/Boga28/news/raw/main/images/NATO_Leaders_Speak_Out_on_China_Russ.jpg",
+   "imageCaption":"U.S. President Joe Biden, right, speaks with Turkey's President Recep Tayyip Erdogan during a plenary session at a NATO summit in Brussels, Monday, June 14, 2021. (AP Photo/Olivier Matthys, Pool)",
+   "authorImage":"https://github.com/Boga28/news/raw/main/NewsChannelImages/VOA.png",
+   "metin":"Leaders of the North Atlantic Treaty Organization (NATO) on Monday said the growing influence of China was an important issue for the alliance. In a final statement, NATO leaders described China’s growing military as “presenting challenges,” which some experts considered surprisingly strong language. The statement also described Russia as “a threat”.
+
+US president Joe Biden arrived at the 31st NATO leaders meeting in Brussels with an important goal. He said he wanted to get NATO allies to deal with problematic actions by China and Russia. He also said he wanted to win the trust of members of the 30-country alliance. “NATO stands together,” said Biden.
+
+After arriving at NATO’s headquarters in Brussels, Biden spoke with NATO Secretary-General Jens Stoltenberg.
+
+Biden has said he wants NATO members to speak out on issues of trade, defense and human rights that relate to China and Russia. The actions of those nations have become important foreign policy concerns for the Biden administration.
+
+NATO members considered a new cyber defense policy. It would permit a country hit by a ransomware attack to work together with other members for their common defense. This comes after Russian-based hackers carried out a series of attacks targeting the US government and worldwide businesses.
+
+The update will mean that if an alliance member needs technological or intelligence support to fight a cyberattack, it would be able to call on Article 5 to receive assistance.
+
+Article 5 of the alliance charter states that an attack on one member of NATO is an attack on all members.
+
+Members also accepted a climate security action plan to reduce the release of gases linked to climate change from military activities.
+
+Alliance members also accepted a commitment to strengthen NATO’s deterrence to meet threats from Russia and other places.
+
+At a press event following the summit, Biden said that he will tell Russian President Vladimir Putin when they meet on Wednesday that he “will respond” to Russian aggression.
+
+Biden also said that the possible death of Putin critic Alexei Navalny would be a “tragedy”. He said it would prove that Putin did not believe in human rights. Navalny is imprisoned in Russia and reported to be very sick.
+
+Biden was also asked about the future of Ukraine and the possibility that it could join NATO in the future.
+
+“They have to meet the criteria” Biden answered.
+
+Biden called Article 5 “sacred” and added, “I want NATO to know America is there”.
+
+I’m Mario Ritter, Jr.",
+   "subtitle":"https://raw.githubusercontent.com/Boga28/news/main/subtitle/NATO_Leaders_Speak_Out_on_China_Russia.srt",
+   "hardWord":"",
+   "authorName":"",
+   "channel":"VOA News",
+   "audio":"https://raw.githubusercontent.com/Boga28/news/main/Auido/NATO_Leaders_Speak_Out_on_China_Russia.mp3",
+   "audioLength":"5",
+   "category":"",
+   "views":"",
+   "date":"2021-06-17T00:27",
+   "tag":""},  
+  
     {"id":"16",
    "header":"China announces 3-child policy to counter aging population | DW News",
    "image":"https://github.com/Boga28/news/raw/main/images/china-announces-3-child-policy.jpg",
