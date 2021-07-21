@@ -23,6 +23,51 @@
 
 {"news":[
   
+    {"id":"24",
+   "header":"Japan Promises Safe Olympics, But Experts Say ‘Bubble’ Is Broken",
+   "image":"https://gdb.voanews.com/49607D12-0DC1-4CC6-91C3-CB77EF0AFB02_cx0_cy7_cw0_w1023_r1_s.jpg",
+   "imageCaption":"A worker paints Olympic rings at the finish line of the BMX racing track as preparations continue for the 2020 Summer Olympics, Tuesday, July 20, 2021, at the Ariake Urban Sports Park in Tokyo. (AP Photo/Charlie Riedel)",
+   "authorImage":"https://github.com/Boga28/news/raw/main/NewsChannelImages/VOA.png",
+   "metin":"The world needs to see that Japan can hold the Summer Olympic Games safely, the country’s prime minister told sports officials Tuesday.
+
+Thousands of athletes, officials, event workers and media are arriving in Japan for the Games. At the same time, there is a local state of emergency and widespread opposition from the public.
+
+Events start Wednesday — in softball and women’s soccer — two days before the opening ceremony on July 23.
+
+”The world is faced with great difficulties,”Japanese Prime Minister Yoshihide Suga told members of the International Olympic Committee.
+
+Suga said he wants the world to know“we can bring success to the delivery of the Games.”
+
+”We will protect the health and security of the Japanese public,”he added. The prime minister’s office said Monday that more than 21 percent of Japan’s 126 million people have received the COVID-19 vaccine.
+
+Olympic officials on Sunday reported the first coronavirus case among sports competitors in the village in Tokyo where 11,000 of them will stay. There have been 67 cases among those who planned to compete in the Games since July 1, organizers said on Tuesday.
+
+International Olympic Committee President Thomas Bach said last week that testing and quarantine measures would leave“zero”risk of sports competitors infecting people in Japan.
+
+Kenji Shibuya is the former director of the Institute for Population Health at King’s College London. He said such statements only confuse and anger people because conditions were“totally opposite.”
+
+”It’s obvious that the bubble system is kind of broken,”said Shibuya. In April, he had written in the British Medical Journal that the Olympics must be“reconsidered”because of Japan’s inability to contain coronavirus cases.
+
+”My biggest concern is, of course, there will be a cluster of infections in the village or some of the accommodation and interaction with local people. ”Not enough testing at the bubble’s border and the impossibility of controlling people’s movements mean that the Games could spread the Delta variant of the virus, he said.
+
+Shibuya noted that he is concerned after hearing about cases that were not noticed at the airport. And he watched videos showing meetings between athletes, workers and reporters. He fears that transmission will take place through the air within thevillage and sports centers. However, there will be no local or foreign fans at events.
+
+New COVID-19 cases in Tokyo reached 1,410 on Saturday, a near six-month high. Public health experts have warned that summer weather, travel and the spread of the Delta variant could lead to an increase in Tokyo’s daily cases by next month. Those levels could put too much pressure on the city’s medical system.
+
+Vaccination rates have increased quickly since last month. But they recently slowed because of supply and delivery problems. Health experts in Japan have questioned accepting so many international visitors for the Games, which end on August 8.
+
+I’m Jill Robbins.",
+   "subtitle":"https://raw.githubusercontent.com/Boga28/news/main/subtitle/Japan_Promises_Safe_Olympics_But_Experts_Say_Bubble_Is_Broken.srt",
+   "hardWord":"",
+   "authorName":"",
+   "channel":"VOA News",
+   "audio":"https://raw.githubusercontent.com/Boga28/news/main/Auido/Japan_Promises_Safe_Olympics_But_Experts_Say_Bubble_Is_Broken.mp3",
+   "audioLength":"4:07",
+   "category":"",
+   "views":"",
+   "date":"2021-07-21T20:58",
+   "tag":""},     
+  
   {"id":"23",
    "header":"Floods in Germany: Could loss of life have been prevented?",
    "image":"https://i.ytimg.com/vi_webp/I9RAh6urs9o/maxresdefault.webp",
