@@ -1,0 +1,144 @@
+1
+00:00:01,590 --> 00:00:15,540
+A group of scientists has proposed a new theory about how Earth’s atmosphere got its oxygen: the planet slowed down and days got longer.
+
+2
+00:00:17,160 --> 00:00:27,210
+A recent study proposes that longer, continuous daylight caused bacteria to produce lots of oxygen.
+
+3
+00:00:29,174 --> 00:00:34,065
+That oxygen made most of life as we know it possible.
+
+4
+00:00:35,805 --> 00:00:50,474
+The scientists dug up bad smelling, colorful bacteria from a deep sinkhole in Lake Huron, which is one of the Great Lakes in the northern United States.
+
+5
+00:00:51,644 --> 00:00:58,650
+In laboratory experiments, the researchers gave the bacteria different amounts of light.
+
+6
+00:00:59,970 --> 00:01:09,780
+They found that the bacteria produce oxygen at a higher rate the longer they receive continuous light.
+
+7
+00:01:11,340 --> 00:01:21,930
+One of the great mysteries in science is how Earth went from a planet with little oxygen to the breathable air we have now.
+
+8
+00:01:23,714 --> 00:01:31,755
+Scientists long believed that microorganisms called cyanobacteria were involved.
+
+9
+00:01:33,195 --> 00:01:38,865
+But they do not know what started the great oxygenation event.
+
+10
+00:01:40,274 --> 00:01:47,625
+The researchers released their study in the publication Nature Geoscience this month.
+
+11
+00:01:49,390 --> 00:02:01,900
+It suggests that Earth’s slowing rotation made it possible for the cyanobacteria to make the atmosphere able to support life.
+
+12
+00:02:03,370 --> 00:02:12,250
+Over a long period, Earth went from a six-hour rotation to its current 24-hour rotation.
+
+13
+00:02:14,395 --> 00:02:24,355
+The scientists say that 2,4 billion years ago there was almost no oxygen in Earth’s atmosphere.
+
+14
+00:02:25,825 --> 00:02:31,735
+No animal or plant that we know of could live in such conditions.
+
+15
+00:02:32,905 --> 00:02:38,635
+Instead, lots of bacteria breathed carbon dioxide gas.
+
+16
+00:02:40,345 --> 00:02:48,804
+In the case of cyanobacteria, they produced oxygen in the earliest form of photosynthesis.
+
+17
+00:02:50,214 --> 00:02:52,975
+At first it was not much.
+
+18
+00:02:54,054 --> 00:03:04,404
+But after about 400 million years, Earth’s atmosphere reached one-tenth the amount of oxygen we have today.
+
+19
+00:03:06,530 --> 00:03:13,030
+That is a huge jump, said the study’s lead writer, Judith Klatt.
+
+20
+00:03:14,420 --> 00:03:20,690
+She is an expert at the Max Planck Institute in Germany.
+
+21
+00:03:22,250 --> 00:03:28,400
+The increased oxygen permitted plants and animals to develop over time.
+
+22
+00:03:29,870 --> 00:03:35,570
+And plants began joining the oxygen-making party, she said.
+
+23
+00:03:37,420 --> 00:03:41,920
+But why did bacteria begin to make more oxygen?
+
+24
+00:03:43,210 --> 00:03:48,590
+Brian Arbic is an ocean expert at the University of Michigan.
+
+25
+00:03:49,920 --> 00:03:56,650
+He studies tidal forces on Earth and how they have slowed Earth’s rotation.
+
+26
+00:03:58,930 --> 00:04:07,960
+Arbic says planet’s rotation slowed because of tidal friction and Earth’s relationship with the moon.
+
+27
+00:04:09,520 --> 00:04:24,640
+Researchers from the University of Michigan and from Germany tested their ideas with bacteria similar to what would have existed 2,4 billion years ago.
+
+28
+00:04:26,539 --> 00:04:39,289
+They used white and purple mats of cyanobacteria living 24 meters underwater in the sinkhole in lake Huron.
+
+29
+00:04:40,880 --> 00:04:51,400
+“We actually imagine that the world looked kind of like the Middle Island sinkhole for most of its history,” Klatt said.
+
+30
+00:04:53,005 --> 00:04:59,335
+Divers brought up the mats of bacteria, which smell like very old eggs.
+
+31
+00:05:00,794 --> 00:05:09,955
+Klatt and others exposed them to different amounts of light, up to 26 straight hours.
+
+32
+00:05:11,335 --> 00:05:18,804
+They found that more continuous light causes the bacteria to produce more oxygen.
+
+33
+00:05:20,685 --> 00:05:32,174
+The writers of the study and outside scientists said this is just one possible reason for Earth’s oxygen increase.
+
+34
+00:05:33,284 --> 00:05:46,934
+What makes the idea interesting is that it does not require any big biological changes in bacteria or the world’s oceans, said Tim Lyons.
+
+35
+00:05:48,575 --> 00:05:57,905
+He is a professor at the University of California, Riverside and was not part of the research team.
+
+36
+00:05:59,224 --> 00:06:00,455
+I’m Alice Bryant.
+
