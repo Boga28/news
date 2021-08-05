@@ -1,6 +1,6 @@
 /*{"news":[
 
-  {"id":"2",
+  {"id":"3",
    "header":"",
    "image":"",
    "imageCaption":"",
@@ -22,6 +22,47 @@
   ]}*/
 
 {"news":[
+  
+   {"id":"30",
+   "header":"Earth's Longer Days May Have Produced More Oxygen",
+   "image":"https://gdb.voanews.com/11396BE7-CD31-4436-B36C-AA6CC0BD52FD_w1023_r1_s.jpg",
+   "imageCaption":"This photo provided by the NOAA Thunder Bay National Marine Sanctuary shows a burbot fish resting on rocks covered in purple and white microbial mats inside the Middle Island Sinkhole in Lake Huron, Mich. (Phil Hartmeyer/NOAA Thunder Bay National Marine Sanctuary via AP)",
+   "authorImage":"https://github.com/Boga28/news/raw/main/NewsChannelImages/VOA.png",
+   "metin":"A group of scientists has proposed a new theory about how Earth’s atmosphere got its oxygen: the planet slowed down and days got longer.
+
+A recent study proposes that longer, continuous daylight caused bacteria to produce lots of oxygen. That oxygen made most of life as we know it possible.
+
+The scientists dug up bad smelling, colorful bacteria from a deep sinkhole in Lake Huron, which is one of the Great Lakes in the northern United States. In laboratory experiments, the researchers gave the bacteria different amounts of light. They found that the bacteria produce oxygen at a higher rate the longer they receive continuous light.
+
+One of the great mysteries in science is how Earth went from a planet with little oxygen to the breathable air we have now. Scientists long believed that microorganisms called cyanobacteria were involved. But they do not know what started the great oxygenation event.
+
+The researchers released their study in the publication Nature Geoscience this month. It suggests that Earth’s slowing rotation made it possible for the cyanobacteria to make the atmosphere able to support life. Over a long period, Earth went from a six-hour rotation to its current 24-hour rotation.
+
+The scientists say that 2,4 billion years ago there was almost no oxygen in Earth’s atmosphere. No animal or plant that we know of could live in such conditions. Instead, lots of bacteria breathed carbon dioxide gas. In the case of cyanobacteria, they produced oxygen in the earliest form of photosynthesis.
+
+At first it was not much. But after about 400 million years, Earth’s atmosphere reached one-tenth the amount of oxygen we have today. That is a huge jump, said the study’s lead writer, Judith Klatt. She is an expert at the Max Planck Institute in Germany. The increased oxygen permitted plants and animals to develop over time. And plants began joining the oxygen-making party, she said.
+
+But why did bacteria begin to make more oxygen？ brian Arbic is an ocean expert at the University of Michigan. He studies tidal forces on Earth and how they have slowed Earth’s rotation. Arbic says planet’s rotation slowed because of tidal friction and Earth’s relationship with the moon.
+
+Researchers from the University of Michigan and from Germany tested their ideas with bacteria similar to what would have existed 2,4 billion years ago. They used white and purple mats of cyanobacteria living 24 meters underwater in the sinkhole in lake Huron.
+
+“We actually imagine that the world looked kind of like the Middle Island sinkhole for most of its history,” Klatt said.
+
+Divers brought up the mats of bacteria, which smell like very old eggs. Klatt and others exposed them to different amounts of light, up to 26 straight hours. They found that more continuous light causes the bacteria to produce more oxygen.
+
+The writers of the study and outside scientists said this is just one possible reason for Earth’s oxygen increase. What makes the idea interesting is that it does not require any big biological changes in bacteria or the world’s oceans, said Tim Lyons. He is a professor at the University of California, Riverside and was not part of the research team.
+
+I’m Alice Bryant.",
+   "subtitle":"https://raw.githubusercontent.com/Boga28/news/main/subtitle/Earth_Longer_Days_May_Have_Produced_More_Oxygen.srt",
+   "hardWord":"",
+   "authorName":"",
+   "channel":"VOA News",
+   "audio":"https://raw.githubusercontent.com/Boga28/news/main/Auido/Earth_Longer_Days_May_Have_Produced_More_Oxygen.mp3",
+   "audioLength":"6:01",
+   "category":"",
+   "views":"",
+   "date":"2021-08-05T09:54",
+   "tag":""}, 
   
   {"id":"29",
    "header":"Turkey’s Erdogan Faces Criticism over Handling of Wildfires",
