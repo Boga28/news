@@ -23,6 +23,59 @@
 
 {"news":[
   
+  {"id":"39",
+   "header":"Singapore Turns Wastewater into Drinking Water",
+   "image":"https://gdb.voanews.com/61025c60-1b36-4c1a-a14d-558726b0a966_cx0_cy10_cw0_w1023_r1_s.jpg",
+   "imageCaption":"This picture taken on July 27, 2021 shows a tank (R) for processed used water storage outside the Bedok NEWater plant in Singapore.",
+   "authorImage":"https://github.com/Boga28/news/raw/main/NewsChannelImages/VOA.png",
+   "metin":"The government of Singapore has created a highly developed system that turns wastewater into drinking water.
+
+The system involves a network of tunnels and high-technology treatment centers.
+
+Reused wastewater can now meet 40 percent of Singapore's water demand. The country’s water agency says it expects to meet 55 percent of Singapore’s water demand by the year 2060.
+
+Most of the water is used for microchip manufacturing centers and cooling systems in buildings. But some of it is added to the country’s drinking water supplies.
+
+The system helps reduce ocean pollution, as only a small amount of the treated water is sent into the sea.
+
+The United Nations estimates that 80 percent of the world's wastewater flows back into the oceans without being treated or reused.
+
+Singapore has few natural water sources. The island nation has long had to depend mostly on supplies from neighboring Malaysia.
+
+Low Pei Chin is chief engineer of the water reclamation department of the Public Utilities Board. She told reporters with Agence France-Press, “Singapore lacks natural resources, and it is limited in space, which is why we are always looking for ways to explore water sources and stretch our water supply”.
+
+One major plan is to “collect every drop” and “reuse endlessly,” she added.
+
+The Changi Water Reclamation Plant on Singapore’s eastern coast is the main part of the country’s recycling system.
+
+Parts of the water treatment center are underground. Wastewater enters the center through a 48-kilometer tunnel that is linked to sewers.
+
+The center contains a large system of steel pipes, tubes, tanks, cleaning systems and other machinery. It can treat up to 900 million liters of wastewater a day.
+
+In one building, a network of air flow systems has been put in place to keep the air smelling as fresh as possible.
+
+Waste that arrives at the plant goes through a cleaning process before powerful pumps send it flowing to areas above ground for more treatment.
+
+There, the treated water receives additional cleaning. Bacteria and viruses are removed through highly developed cleaning processes and disinfected with ultraviolet radiation.
+
+Singapore is also in the process of expanding its recycling system.
+
+The country will add another underground tunnel and a major water treatment center to serve the western half of the island. Officials expect work on the center to be completed by 2025.
+
+By the time the expansion is finished, Singapore will have spent about $7,4 billion on its water treatment systems.
+
+I’m Jonathan Evans.",
+   "subtitle":"https://raw.githubusercontent.com/Boga28/news/main/subtitle/Singapore_Turns_Wastewater_into_Drinking_Water.srt",
+   "hardWord":"",
+   "authorName":"",
+   "channel":"VOA News",
+   "audio":"https://raw.githubusercontent.com/Boga28/news/main/Auido/Singapore_Turns_Wastewater_into_Drinking_Water.mp3",
+   "audioLength":"4:02",
+   "category":"",
+   "views":"",
+   "date":"2021-08-15T10:07",
+   "tag":""},   
+  
   {"id":"38",
    "header":"Old Man Thinks He Can No Longer Live Alone in the Woods",
    "image":"https://gdb.voanews.com/4802E813-ACB2-4430-AC6A-7F9D75BC581F_cx0_cy7_cw0_w1023_r1_s.jpg",
