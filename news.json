@@ -1,6 +1,6 @@
 /*{"news":[
 
-  {"id":"3",
+  {"id":"4",
    "header":"",
    "image":"",
    "imageCaption":"",
@@ -22,6 +22,55 @@
   ]}*/
 
 {"news":[
+  
+   {"id":"40",
+   "header":"Oil Companies Look to Make Renewable Fuels",
+   "image":"https://gdb.voanews.com/88642faf-fe5b-4c39-bf2d-50500bd3f44a_cx0_cy3_cw0_w1023_r1_s.jpg",
+   "imageCaption":"FILE - Smoke rises from a fire at Exxon Mobil's refining and chemical plant complex in Baytown, near Houston, Texas, July 31, 2019.",
+   "authorImage":"https://github.com/Boga28/news/raw/main/NewsChannelImages/VOA.png",
+   "metin":"US oil companies Exxon Mobil and Chevron are looking to produce more renewable fuels.
+
+The two largest US oil companies want to produce sustainable fuels without paying the billions of dollars usually needed to change the operations to make the products.
+
+People with knowledge of the efforts told Reuters the two companies are finding ways to make such products at their existing manufacturing centers.
+
+Renewable fuels account for 5 percent of US fuel use. But that percentage is expected to grow as producers look to cut carbon emissions to fight climate change.
+
+Both Chevron and Exxon have large refining divisions that add heavily to their carbon emissions. The companies have been criticized for being slower to produce renewable energy than European companies, such as Royal Dutch Shell and TotalEnergies.
+
+The American corporations have spent less money than those companies on green technologies.
+
+Exxon and Chevron are looking into how to process feedstocks like vegetable oils and partly processed biofuels with petroleum. That process produces renewable diesel, sustainable aviation fuel (SAF) and renewable gasoline without greatly raising costs. The production of renewable fuels costs more than making regular gasoline without government assistance.
+
+The sources told Reuters that Exxon is working to understand its ability to process up to 50 percent of some kinds of bio-feedstocks to produce SAF.
+
+Chevron is also looking into how to put feedstocks through their fluid catalytic crackers (FCC). FCCs produce gasoline and are generally the largest part of refining facilities.
+
+“Our goal is to co-process bio-feedstocks in the FCC by the end of 2021,” a Chevron spokesperson told Reuters. The bio-feedstocks will supply renewable products to people in Southern California.
+
+Chevron is working with the US environmental Protection Agency (EPA) and the California Air Resources Board (CARB) so that the renewable fuel it produces would count toward emission credits. Emission credits are financial rewards meant to push companies to emit less pollution.
+
+The fuel products are still not available for use. But the California Energy Commission says that renewable fuel can reduce carbon dioxide pollution by 61 percent to 83 percent.
+
+Congress is also considering legislation for tax credits that would push oil producers to make sustainable airplane fuel.
+
+The federal government and some states provide financial incentives to produce renewable fuel. Some oil producers, like Texas-based Valero and Finland-based Neste, have increased production of renewable fuels from waste oils and vegetable oils.
+
+Several other US producers are in the process of partly or fully changing their production plants to make renewable fuels, especially diesel.
+
+If approved, new ways of producing renewable fuels at refineries could let producers avoid environmental permitting processes, which can take a long time. Many of these processes are still going through additional testing.
+
+I’m Dan Novak.",
+   "subtitle":"https://raw.githubusercontent.com/Boga28/news/main/subtitle/Oil_Companies_Look_to_Make_Renewable_Fuels.srt",
+   "hardWord":"",
+   "authorName":"",
+   "channel":"VOA News",
+   "audio":"https://raw.githubusercontent.com/Boga28/news/main/Auido/Oil_Companies_Look_to_Make_Renewable_Fuels.mp3",
+   "audioLength":"5:34",
+   "category":"",
+   "views":"",
+   "date":"2021-08-16T10:16",
+   "tag":""},   
   
   {"id":"39",
    "header":"Singapore Turns Wastewater into Drinking Water",
