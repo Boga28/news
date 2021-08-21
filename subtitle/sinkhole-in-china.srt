@@ -1,0 +1,32 @@
+1
+00:00:00,120 --> 00:00:03,240
+A huge sinkhole appears in a street.
+
+2
+00:00:04,230 --> 00:00:06,030
+This happens in China.
+
+3
+00:00:06,960 --> 00:00:09,720
+A motorcyclist is driving to the hole.
+
+4
+00:00:10,590 --> 00:00:11,850
+He does not see it.
+
+5
+00:00:12,690 --> 00:00:14,730
+He is looking at his phone.
+
+6
+00:00:15,510 --> 00:00:16,360
+He is looking at his phone.
+
+7
+00:00:16,360 --> 00:00:17,500
+He drives into the hole.
+
+8
+00:00:18,660 --> 00:00:19,920
+He is OK.
+
