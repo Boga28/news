@@ -14,7 +14,7 @@
    "audioLength":"",
    "category":"",
    "views":"",
-   "date":"2021-08-13T10:11",
+   "date":"2021-08-21T10:11",
    "tag":""},                                          ？  ‛  ⢀
    
       Left Quote    “                    Right Quote    ”      Apostrophe   ‛      ？
@@ -22,6 +22,57 @@
   ]}*/
 
 {"news":[
+  
+   {"id":"45",
+   "header":"Visiting Alaska's Distant Aleutian Islands",
+   "image":"https://gdb.voanews.com/08409371-8AB0-4889-9647-121ADF55BC36_w650_r0_s.jpg",
+   "imageCaption":"This 1947 photo shows the U.S. Army Williwaw camp on Alaska's Adak Island. Mount Moffett is in background. The Quonset huts are dug in as protection against the strong Aleutian winds. (AP Photo/Joseph D. Jamieson)",
+   "authorImage":"https://github.com/Boga28/news/raw/main/NewsChannelImages/VOA.png",
+   "metin":"Halfway between the United States and Japan is Alaska’s Adak Island. It is one of the remote Aleutian islands.
+
+It is a place known for its natural beauty. The coast is home to rich wildlife. Purple lupine flowers can be seen along roads through grassy hills. Hot springs cover the landscape. Snow-topped mountains and the Great Sitkin volcano rise in the distance.
+
+It is also a strange place, with an important military history. Adak became a US armyArmy airbase during World War II to protect against a feared Japanese invasion of Alaska. The base was later used by the Navy. Because of its closeness to Russia, it remained an important military base and submarine look-out center throughout the Cold War.
+
+Adak Island is home to the native Aleut people. It is not easy to get to. It requires a four-hour plane trip from Anchorage. People visit Adak to hunt, watch birds, climb mountains, or examine one of the many abandoned military bases. 
+
+American writer Nicole Evatt recently described her travels there for The Associated Press. She describes two Adaks: one filled with beautiful nature and one filled with Cold War military remains.
+
+Like many other historical areas on Adak, the old LORAN --- long range navigation --- station is covered with painted words, called graffiti. And it is falling apart. The doors and windows are broken. Evatt calls the inside of the buildings “spooky”. As she walked through dark, partly wet rooms, paint was coming off the surfaces and broken equipment sat in disrepair.
+
+Through broken windows, she saw the blue-black Bering Sea crashing into nearby Horseshoe Bay. This is the Adak experience: equal parts spooky and breathtaking natural beauty.
+
+But the real reason to visit Adak is not the military buildings.
+
+Most people come to hunt caribou. The animal was introduced to the area in the 1950s as a possible emergency food source.
+
+Along with hunting, people also come to hike. There are many beautiful hikes on the island. One at Finger Bay offers views of the volcano. A hike to Lake Bonnie Rose includes an old abandoned military building built into hills.
+
+At Horseshoe Bay, brave people can climb down a rope to the coast below and nearby hot springs. At Clam Lagoon you can watch sea otters, harbor seals and sea lions playing in the water and warming themselves on the rocks.
+
+For bird watchers, the area is wonderful. And Adak’s strange “national forest” is also worth a visit. This is a small collection of evergreen trees in an otherwise nearly treeless landscape.
+
+In town, fewer than 100 people live full-time in old military houses. These houses sit in mostly empty neighborhoods with other buildings in need of repair.
+
+So why do people stay？ some love the quiet. Others say they feel safe from the coronavirus. Some get extra pay for remote work.
+
+People who live there often do many different jobs. One man who serves drinks at a bar also works at the airport.
+
+Adak locals learn to live with very limited supplies. The only food store is in the old daycare center. It is open just a few hours on some evenings. The old high school and middle school now hold city hall, a healthcare center and the post office. A drink store that was once a gas station sells a case of beer for $50. In most states, a case of beer is under $20.
+
+Food choices are limited. Restaurants and stores are often closed. One eatery in Adak does not open often, but when it does, it serves a large pizza for $28. Reporter Nicole Evatt wrote that it was surprisingly tasty considering how far the tomato sauce and cheese had to travel.
+
+I’m Anna Matteo.",
+   "subtitle":"https://raw.githubusercontent.com/Boga28/news/main/subtitle/Visiting_Alaska_Distant_Aleutian_Islands.srt",
+   "hardWord":"",
+   "authorName":"",
+   "channel":"VOA News",
+   "audio":"https://raw.githubusercontent.com/Boga28/news/main/Auido/Visiting_Alaska_Distant_Aleutian_Islands.mp3",
+   "audioLength":"6:16",
+   "category":"",
+   "views":"",
+   "date":"2021-08-21T10:00",
+   "tag":""},  
   
    {"id":"44",
    "header":"Cambodia´s Bamboo Trains",
