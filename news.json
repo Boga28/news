@@ -23,6 +23,25 @@
 
 {"news":[
   
+  {"id":"46",
+   "header":"Millions of Jellyfish",
+   "image":"https://www.newsinlevels.com/wp-content/uploads/2019/07/Depositphotos_346861124_l-2015-300x150.jpg",
+   "imageCaption":"level 1",
+   "authorImage":"https://github.com/Boga28/news/raw/main/NewsChannelImages/News_in_Levels.png",
+   "metin":"This news is from Crimea, Russia. Millions of jellyfish appear near the shore.
+
+There are so many that it looks like it is raining. We do not know why there are so many. This is a rare thing. The jellyfish is an old type of animal. It is between 500 and 700 million years old.",
+   "subtitle":"https://raw.githubusercontent.com/Boga28/news/main/subtitle/millions-of-jellyfish.srt",
+   "hardWord":"",
+   "authorName":"",
+   "channel":"News In Levels",
+   "audio":"https://raw.githubusercontent.com/Boga28/news/main/Auido/millions-of-jellyfish.mp3",
+   "audioLength":"0:33",
+   "category":"",
+   "views":"",
+   "date":"2021-08-21T22:46",
+   "tag":""},   
+  
    {"id":"45",
    "header":"Visiting Alaska's Distant Aleutian Islands",
    "image":"https://gdb.voanews.com/08409371-8AB0-4889-9647-121ADF55BC36_w650_r0_s.jpg",
