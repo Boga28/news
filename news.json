@@ -1,6 +1,6 @@
 /*{"news":[
 
-  {"id":"4",
+  {"id":"5",
    "header":"",
    "image":"",
    "imageCaption":"",
@@ -14,7 +14,7 @@
    "audioLength":"",
    "category":"",
    "views":"",
-   "date":"2021-08-21T10:11",
+   "date":"2021-08-23T10:11",
    "tag":""},                                          ？  ‛  ⢀
    
       Left Quote    “                    Right Quote    ”      Apostrophe   ‛      ？
@@ -22,6 +22,31 @@
   ]}*/
 
 {"news":[
+  
+  {"id":"50",
+   "header":"Southern Lights",
+   "image":"https://knowledgenuts.com/wp-content/uploads/2016/03/iStock_000059557596_Medium.jpg",
+   "imageCaption":"Level 2",
+   "authorImage":"https://github.com/Boga28/news/raw/main/NewsChannelImages/News_in_Levels.png",
+   "metin":"French astronaut Thomas Pesquet took photographs from the International Space Station, and he made a video. Pesquet photographed the Aurora Australis, above the southern Indian Ocean between Asia and Antarctica.
+
+The International Space Station was 440 kilometers above the earth.
+
+The aurora is a beautiful display of lights which take place at the earth´s poles. Aurora Borealis takes place at the North Pole, and people call it the Northern Lights. Aurora Australis takes place at the South Pole, and people call it the Southern Lights.
+
+In Latin, Aurora is a mystical name which means ´dawn´. People can sometimes watch the auroras from Earth, but they look much more beautiful from space.
+   
+Difficult words: display (something that people can watch), mystical (related to people´s spirit or religion), dawn (the first light before sunrise)",
+   "subtitle":"https://raw.githubusercontent.com/Boga28/news/main/subtitle/southern-lights.srt",
+   "hardWord":"",
+   "authorName":"",
+   "channel":"News In Levels",
+   "audio":"https://raw.githubusercontent.com/Boga28/news/main/Auido/southern-lights.mp3",
+   "audioLength":"1:17",
+   "category":"",
+   "views":"",
+   "date":"2021-08-23T09:55",
+   "tag":""},   
   
   {"id":"49",
    "header":"The loneliest man in history",
