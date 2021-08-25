@@ -14,7 +14,7 @@
    "audioLength":"",
    "category":"",
    "views":"",
-   "date":"2021-08-23T10:11",
+   "date":"2021-08-25T10:11",
    "tag":""},                                          ？  ‛  ⢀
    
       Left Quote    “                    Right Quote    ”      Apostrophe   ‛      ？
@@ -22,6 +22,29 @@
   ]}*/
 
 {"news":[
+  
+  {"id":"53",
+   "header":"Methane and the world´s temperature",
+   "image":"https://www.newsinlevels.com/wp-content/uploads/2021/08/Depositphotos_11488311_l-2015-300x150.jpg",
+   "imageCaption":"Level 2",
+   "authorImage":"https://github.com/Boga28/news/raw/main/NewsChannelImages/News_in_Levels.png",
+   "metin":"Methane is an invisible gas which has no smell. Scientists discovered that methane had much more warming power than carbon dioxide, another gas. Methane caused about 25% of the increase in the global temperature.
+
+People can avoid about 30% of the warming, which scientists expect in the next decades, but they won’t need to make any big changes. The reason is that oil and gas fields spill methane into the air, and sometimes they do not even know about it.
+
+Scientists and so-called methane hunters go around the oil fields, and they find gas leaks. They use a special camera that can see the methane leaking out of pipes and tools which control the flow in the pipes. This is very important because people finally started to see methane as a problem, and they can do something about it.
+   
+Difficult words: temperature (how warm or cold something is), carbon dioxide (a gas which comes from vehicles or businesses). solution (an idea which solves a problem)",
+   "subtitle":"https://raw.githubusercontent.com/Boga28/news/main/subtitle/methane-and-the-worlds-temperature.srt",
+   "hardWord":"",
+   "authorName":"",
+   "channel":"News In Levels",
+   "audio":"https://raw.githubusercontent.com/Boga28/news/main/Auido/methane-and-the-worlds-temperature.mp3",
+   "audioLength":"1:24",
+   "category":"",
+   "views":"",
+   "date":"2021-08-25T09:45",
+   "tag":""},    
   
   {"id":"52",
    "header":"North Carolina Plans to Raise Marriage Age to 16",
