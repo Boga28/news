@@ -23,21 +23,21 @@
 
 {"news":[
   
-    {"id":"56",
+   {"id":"56",
    "header":"We are fixing a problem",
    "image":"https://i.ytimg.com/vi/afngg68jrhk/maxresdefault.jpg",
    "imageCaption":"We are fixing something..",
    "authorImage":"https://i.ytimg.com/vi/afngg68jrhk/maxresdefault.jpg",
-   "metin":"As soon as possible , we w,ll try to solve this problem.",
-   "subtitle":"",
+   "metin":"There is not a news. We are sorry for this problem. We will fix it as soon as possible.",
+   "subtitle":"https://raw.githubusercontent.com/Boga28/news/main/subtitle/fixing.srt",
    "hardWord":"",
    "authorName":"",
-   "channel":"There is no film",
-   "audio":"",
+   "channel":"Fixing",
+   "audio":"https://raw.githubusercontent.com/Boga28/news/main/Auido/fixing.mp3",
    "audioLength":"00:00",
    "category":"",
    "views":"",
-   "date":"2021-05-10T21:30",
+   "date":"2021-08-26T21:30",
    "tag":""},
   
  {"id":"55",
