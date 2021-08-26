@@ -1,0 +1,12 @@
+1
+00:00:00,030 --> 00:00:01,260
+There is not a news.
+
+2
+00:00:01,620 --> 00:00:03,240
+We are sorry for this problem.
+
+3
+00:00:03,630 --> 00:00:05,250
+We will fix it as soon as possible.
+
