@@ -1,5 +1,5 @@
 1
-00:00:00,000 --> 00:00:17,190
+00:00:01,000 --> 00:00:17,190
 Hello⢀ This is 6 Minute from BBC Learning English⢀ I’m Neil.
 
 2
@@ -167,6 +167,6 @@ That’s all for this programme⢀ We hope it’s lifted your spirits and given 
 Remember to join us again soon for more interesting topics here at 6 Minute English⢀ And if you like topical discussions and want to learn how to use the vocabulary found in headlines, why not try out our News Review podcast？ you’ll find programmes about many topics that will help to keep you entertained and learning at the same time⢀ Don’t forget you can download the app for free from the app stores⢀ And of course, we are on most social media platforms⢀ Bye for now❗.
 
 43
-00:06:17,400 --> 00:06:19,060
+00:06:17,400 --> 00:06:18,060
 Bye❗.
 
