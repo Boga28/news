@@ -23,99 +23,107 @@
 
 {"news":[
   
-   {"id":"56",
-   "header":"Chocolate Fashion Show",
-   "image":"https://i.ytimg.com/vi/uCvMrJmZSZY/maxresdefault.jpg",
-   "imageCaption":"Level 3",
-   "authorImage":"https://github.com/Boga28/news/raw/main/NewsChannelImages/News_in_Levels.png",
-   "metin":"Salon du Chocolat created clothing made of chocolate and models wore the creations at a fashion show in Paris which was part of an annual chocolate fair.
-
-People say that the fair is the largest chocolate fair in the world. Chocolatiers, pastry chefs and confectioners come from across the world to this fair.
-
-In the movie ‘Forrest Gump’, the main character said that, ‘Life is like a box of chocolates. You never know what you’re going to get’. Clearly, fashion shows can be like boxes of chocolates, too!
-    
-Difficult words: chocolatier (a person who creates chocolate and things made out of chocolate), confectioner (a person who works with candy and sweets), Life is like a box of chocolates. You never know what you’re going to get. (this saying means that you do not know what life is going to be like in the future)",
-   "subtitle":"https://raw.githubusercontent.com/Boga28/news/main/subtitle/chocolate-fashion-show.srt",
+    {"id":"56",
+   "header":"#MeToo Serbia: 'I thought I was the only one'",
+   "image":"https://github.com/Boga28/news/raw/main/images/MeToo_Serbia.jpg",
+   "imageCaption":"A #MeToo movement has been sweeping through western Balkans after Serbian actress Milena Radulovic went public with allegations of abuse against a former drama teacher.",
+   "authorImage":"https://github.com/Boga28/news/raw/main/NewsChannelImages/bbc_news.png",
+   "metin":"When it was happening to me, I thought that I was the only one, not only with him, but in the world who is surviving, something like this. Serbian actor Milena Redulovic shared her story of rape in January. It was like a dumb  broke setting off a metoo wave empowering women across the region to speak up about a taboo subject.
+\tWell, this story is shaped Serbia from the gound. Milena has accused famous produce and drama teacher Miroslav Alexi of raping her when she was 17 and studying at the prestigious acting school in Belgrade, several other women from the same school have come forward with similar accusations. Alexa has since been charged with rape and other illegal sexual acts.
+\tHe denies wrongdoing and is being held in detention, the publicity around the case, unleash the tide of testimonies and brought another case back into the spotlight. I remember clearly, um, hearing about Milena's story and being in tears of joy, I was just thinking of that. My mission to encourage other people to speak has started.
+\tDaniella Steinfeld is a Serbian filmmaker now based in New York.
+\tLast year, she released a documentary examining the aftermath of sexual assault. Including her own recently, she revealed the name of the man. She says raped her well-known Serbian actor Branislav Lečić who denies the allegation. Others have come out with similar accusations and investigation is underway and no charges have yet been made violence against women is a serious concern in Serbia.
+\tThe country ratified this symbol convention to protect women, but reporting and conviction rates are extremely low. Most of the victims in the Balkan region are still in silence. The self silencing is a self protection because one thing is to survive sexual assault and reach for safety. The other thing is to survive the unpredictability of a backlash disbelief, shaming.
+\tDaniela left Serbia, abandoning her successful acting career there from a PTSD and from pretty much dysfunctional person that I was for years, I raise up to make the film to make something that it was helpful for many people. And that is something that has healed me. For Milena, one reason to share her story was to make people see what's been hiding in plain sight.
+\tI knew that it is going to be interesting for everybody because I was this protected princess girl from a good family and everybody would have like, Oh, she's leading such a fairytale. So I knew that it's going to be like, Oh my God, like her, if I kept talked to Daniella, um, right after the assaults, um, I would tell her.
+\tUh, to not be afraid, go tell your parents now. Yeah. And I would tell her that it's not only your case. And to know that no matter how difficult and long, long, long time it's needed, the healing is possible.",
+   "subtitle":"https://raw.githubusercontent.com/Boga28/news/main/subtitle/MeToo_Serbia.srt",
    "hardWord":"",
    "authorName":"",
-   "channel":"News In Levels",
-   "audio":"https://raw.githubusercontent.com/Boga28/news/main/Auido/chocolate-fashion-show.mp3",
-   "audioLength":"0:47",
+   "channel":"BBC News",
+   "audio":"https://raw.githubusercontent.com/Boga28/news/main/Auido/metoo_serbia.mp3",
+   "audioLength":"4",
    "category":"",
    "views":"",
-   "date":"2021-08-26T18:14",
-   "tag":""}, 
-  
-  {"id":"55",
-   "header":"New spoon for astronauts",
-   "image":"https://www.newsinlevels.com/wp-content/uploads/2021/08/Depositphotos_256642660_l-2015-300x150.jpg",
-   "imageCaption":"LEVEL 1",
-   "authorImage":"https://github.com/Boga28/news/raw/main/NewsChannelImages/News_in_Levels.png",
-   "metin":"Nikolas Grafakos makes a special spoon. The spoon is for astronauts.
-
-The spoon helps astronauts eat more easily. It will be important during long trips to Mars. Astronauts use normal spoons now. The spoons are a little longer. It is not always easy to eat with them at zero gravity. The food must be wet. Then it sticks to the spoon.
-
-The new spoon is very different. It is something between a spoon and chopsticks. You hold it in your hand. You press it at the end. The food stays on the spoon. It is easier to put food in your mouth.
-
- It will be possible to eat more kinds of food. Astronauts will be happier.
-   
-Difficult words: spoon (a thing which people use to eat soup and other food), zero gravity (the situation when a person does not feel the weight of his body, and he flies in the air), chopsticks (a pair of thin sticks which people from Asian countries use for eating)",
-   "subtitle":"https://raw.githubusercontent.com/Boga28/news/main/subtitle/new-spoon-for-astronauts.srt",
-   "hardWord":"",
-   "authorName":"",
-   "channel":"News In Levels",
-   "audio":"https://raw.githubusercontent.com/Boga28/news/main/Auido/new-spoon-for-astronauts.mp3",
-   "audioLength":"1:14",
-   "category":"",
-   "views":"",
-   "date":"2021-08-26T11:58",
+   "date":"2021-05-10T21:30",
    "tag":""},
   
-  {"id":"54",
-   "header":"Across the River in Rome",
-   "image":"https://www.newsinlevels.com/wp-content/uploads/2019/07/Depositphotos_245315674_l-2015-300x150.jpg",
-   "imageCaption":"Level 3",
-   "authorImage":"https://github.com/Boga28/news/raw/main/NewsChannelImages/News_in_Levels.png",
-   "metin":"An Italian tightrope artist became the first person to high-wire across the Tiber river in Rome, travelling 135 metres over a 20-metre drop. Andrea Loreni, the artist, holds the record in Italy for the longest and highest tightrope walk.
-
-The artist said that it was difficult because of external factors like the wind, the rain and the LED light reflections on the water – there was so much input that it risked creating confusion. He coped by choosing one spot and focusing on it.
-
-Nervous onlookers let out a sigh of relief when Loreni made it through the wind and rain to the other end.
-   
-Difficult words: high-wire (walk on a wire or rope high up in the air without a net underneath), input (things which you see and hear), cope (how you deal with a problem)",
-   "subtitle":"https://raw.githubusercontent.com/Boga28/news/main/subtitle/across-the-river-in-rome.srt",
+ {"id":"55",
+   "header":"Bill Gates faces conduct accusations amid divorce, report says",
+   "image":"https://github.com/Boga28/news/raw/main/images/Bill_Gates_faces_conduct.jpg",
+   "imageCaption":"(CNN Business)Bill Gates's 2020 resignation from Microsoft's board of directors came after the board hired a law firm to investigate a romantic relationship he had with a Microsoft employee, according to new reporting from the Wall Street Journal.",
+   "authorImage":"https://github.com/Boga28/news/raw/main/NewsChannelImages/Cnn.png",
+   "metin":"Developing this morning, a new wall street journal report says bill Gates, 2020 resignation from Microsoft‛s board of directors, coincided with the board investigating a romantic relationship that he had with a Microsoft employee. CNN, Christine Romans is joining us. This is a, you know, quite a bombshell what‛s happening here.
+It is,good morning, Brianna, you know, earlier this month, bill and Melinda Gates announced they would be divorcing. That was news that rocked the world of philanthropy. Bill Gates in the headlines again this morning. Microsoft founder, bill Gates, facing misconduct accusations for relationship he had with a Microsoft engineer starting in 2000.
+That‛s according to the wall street journal, the paper found that his March, 2020 resignation from the tech company‛s board of directors followed an investigation into the affair. By an outside law firm hired by the board. The Microsoft board became aware of the affair in 2019 after the employee sent a letter detailing the relationship, the journal reports during the probes of board members thought it was no longer fitting for Gates to continue his role with the company.
+The journal said citing people familiar with the matter a spokesperson from Microsoft telling CNN a committee. Of the board reviewed the concern aided by an outside law firm to conduct a thorough investigation throughout the investigation. Microsoft provided extensive support to the employee who raised the concern, a spokesperson for Gates admitted to the relationship telling the journal quote, there was an affair almost 20 years ago, which ended amicably his decision to transition off the board was in no way related to this matter.
+Okay, so you have to go some distance. You can‛t get it nearby. At the time. Gates announced his resignation. He said it was out of a desire to focus on his philanthropic work. In another report. The New York times reported that Gates developed a reputation for questionable conduct in work-related settings.
+Adding that on at least a few occasions, Mr gates, pursued women who worked for him at Microsoft. And at the bill and Melinda Gates foundation, the time citing people with direct knowledge of the overtures Gates spokesperson denied any mistreatment of employees to the times and said it is extremely disappointing that there have been so many untruths published about the cause the circumstances and the timeline of bill Gates, divorce.
+These revelations come just weeks after Gates and his wife, Melinda announced they were divorcing after 27 years of marriage. In the case of Melinda. It‛s a truly equal partner. The couple met in 1987 while she was working at Microsoft. I was new to Microsoft. There were, there were a lot of men there. Um, and you know, you, you‛re still looking around, you know, you‛re still figuring it out.
+But after about a year of that, you know, sort of to our surprise, certainly my surprise, uh, you know, we, we said, Hey, I love you. And she said, she loved me. So these headlines come after the wall street journal reported, Melinda Gates was meeting with divorce lawyers back in 2019 after revelations about her husband‛s connection with accused sex trafficker, Jeffrey Epstein emerged sources told the journal that Gates is concerned about her husband‛s relationship with Epstein dated all the way back to 2013, especially because Melinda Gates is a global advocate for women and girls.
+CNN has not confirmed this or any allegations decided by the journal and the times Brianna.",
+   "subtitle":"https://raw.githubusercontent.com/Boga28/news/main/subtitle/bill-gates-faces-conduct-accusations-amid-divorce-report-says.srt",
    "hardWord":"",
    "authorName":"",
-   "channel":"News In Levels",
-   "audio":"https://raw.githubusercontent.com/Boga28/news/main/Auido/across-the-river-in-rome.mp3",
-   "audioLength":"1:16",
+   "channel":"CNN News",
+   "audio":"https://raw.githubusercontent.com/Boga28/news/main/Auido/bill-gates-faces-conduct-accusations-amid-divorce-report-says.mp3",
+   "audioLength":"4",
    "category":"",
    "views":"",
-   "date":"2021-08-25T20:56",
-   "tag":""}, 
+   "date":"2021-05-19T18:38",
+   "tag":""},
   
-  {"id":"53",
-   "header":"Methane and the world´s temperature",
-   "image":"https://www.newsinlevels.com/wp-content/uploads/2021/08/Depositphotos_11488311_l-2015-300x150.jpg",
-   "imageCaption":"Level 2",
-   "authorImage":"https://github.com/Boga28/news/raw/main/NewsChannelImages/News_in_Levels.png",
-   "metin":"Methane is an invisible gas which has no smell. Scientists discovered that methane had much more warming power than carbon dioxide, another gas. Methane caused about 25% of the increase in the global temperature.
-
-People can avoid about 30% of the warming, which scientists expect in the next decades, but they won’t need to make any big changes. The reason is that oil and gas fields spill methane into the air, and sometimes they do not even know about it.
-
-Scientists and so-called methane hunters go around the oil fields, and they find gas leaks. They use a special camera that can see the methane leaking out of pipes and tools which control the flow in the pipes. This is very important because people finally started to see methane as a problem, and they can do something about it.
-   
-Difficult words: temperature (how warm or cold something is), carbon dioxide (a gas which comes from vehicles or businesses). solution (an idea which solves a problem)",
-   "subtitle":"https://raw.githubusercontent.com/Boga28/news/main/subtitle/methane-and-the-worlds-temperature.srt",
+  
+ {"id":"54",
+   "header":"Asian American woman who survived brutal attack speaks out",
+   "image":"https://github.com/Boga28/news/raw/main/images/Asian_American_woman.jpg",
+   "imageCaption":"ABC News Juju Chang sat down with 65-year-old Vilma Kari, who was attacked by a man in New York City last month. President Joe Biden signed the COVID-19 Hate Crimes Act on Thursday.",
+   "authorImage":"https://github.com/Boga28/news/raw/main/NewsChannelImages/ABC_News.jpg",
+   "metin":"To be a historic action to protect Asian-Americans in this country and made that dramatic rise in attacks. President Biden‛s signing into law and anti-Asian hate crimes bill. It was overwhelmingly approved by Congress. And tonight here, that horrific case in New York city, a woman assaulted in broad daylight.
+You‛ll remember us reporting here, bystanders appearing to watch it unfold, but doing nothing about it tonight, ABCs, Juju Chang with the survivor of that attack. Tonight, the woman who survived this brutal attack on a New York city street. Now speaking out about the trauma, she endured that day, physically I‛m healing well, but mentally, emotionally, I‛m not there yet.
+Surveillance video showing 66 year old Vilma carry a Filipino American on our way to church. When a man suddenly kicks her, knocking her down stomping on her face repeatedly. Film, his daughter says the attacker hurled racist slurs at her mom F you Asian, you don‛t belong here. The suspect a homeless man, reportedly with a history of mental illness arrested on hate crime charges.
+He pleaded not guilty. What does justice at the end of the day look like for you？ It‛s time to change the law so that those victims of hate crime should have a voice and should have, um, justice. In court today, president Biden‛s signing the COVID-19 hate crimes act every time we‛re silent. Every time we let hate flourish, you make a lot.
+Who we are as a nation. It‛s that silence that Vilma and her daughter are determined to break sharing AAPI stories, flipping the attackers, alleged words to say, AAP, we do belong here and take that power away from that person that decided to inflict this horrible act on my mom. So brave of Velma to share her story with you, Juju your reporting has been so powerful on all of this for many months.
+Now, you and I were on the air for the attacks in Atlanta. We know that eight died, six were of Asian descent, but this new bill put into law today will actually help. So many of the other cases we hope. That have not received the kind of attention that they deserve. Absolutely. As you know, a district attorney in Georgia announced hate crime charges against that alleged shooter in Atlanta, but hate crime charges like Vilmos are rare and today‛s new law is designed to make that process easier.
+And David, while Vilma is interested in pursuing justice to the enth degree, she also prayed for her attacker and is literally fighting hate with love extraordinary. And again, brave of Vilma to talk with you. We‛re going to have much more of Juju‛s interview later tonight, right here on Nightline. And we‛ll be watching thanks to you.
+Hi, when George Stephanopoulos here, thanks for checking out the ABC news YouTube channel. If you‛d like to get more videos, show highlights and watch live event coverage, click on the right over here to subscribe to our channel. And don‛t forget to download the ABC news app for breaking news alerts.
+Thanks for watching.",
+   "subtitle":"https://raw.githubusercontent.com/Boga28/news/main/subtitle/Asian_American_woman.srt",
    "hardWord":"",
    "authorName":"",
-   "channel":"News In Levels",
-   "audio":"https://raw.githubusercontent.com/Boga28/news/main/Auido/methane-and-the-worlds-temperature.mp3",
-   "audioLength":"1:24",
+   "channel":"ABC News",
+   "audio":"https://raw.githubusercontent.com/Boga28/news/main/Auido/Asian_American_woman.mp3",
+   "audioLength":"3",
    "category":"",
    "views":"",
-   "date":"2021-08-25T09:45",
-   "tag":""},    
+   "date":"2021-05-21T12:19",
+   "tag":""},
+  
+    {"id":"53",
+   "header":"At Least 14 Shot in Mass Shooting at New Jersey House Party",
+   "image":"https://github.com/Boga28/news/raw/main/images/14-shot-in-mass-shooting-at-new-jersey-house-party-nbc-new-york.jpg",
+   "imageCaption":"New Jersey state police said at least 14 people were shot, with two of them killed, during what they called a “mass shooting event” at a party being attended by at least 100 people in rural Cumberland County. NBC10’s Randy Gyllenhaal reports.",
+   "authorImage":"https://github.com/Boga28/news/raw/main/NewsChannelImages/NBC_New_York.jpg",
+   "metin":"Jersey where a house party turned into a night of horror in Cumberland county. We have just learned that more than a dozen people were shot. And two of them have died report a Randy Gillan hall from our sister station. NBC Philadelphia joins us now with the latest Brandy. Good morning. Hey, good morning.
+So we should note these are preliminary new numbers in from New Jersey state police, a very fluid situation here because this house party a 90 steam birthday party had so many people at it. Hundreds of them. Who began running for cover and running for their lives. When the gunfire started at this point, police are telling us, uh, 14 people total were shot.
+Two of them dead, a man and a woman, 12 others injured. I want to zoom in and show you, uh, the what‛s happening here at the scene. You can see, uh, Cruz from New Jersey state police and their canine teams, looking for evidence, a grid search underway after the shooting broke out, witnesses are telling us this was supposed to be a celebratory party, nice weather of restrictions easing.
+So they gathered at this large yard, uh, for a celebration, but then at midnight witnesses say they‛ve started to hear gunshots coming in from the tree line, from the woods. And that‛s when everybody started running. For cover two people died at 30 year old man and a 25 year old woman, 12 other people hit some of them having to drive themselves to hospitals all over south Jersey to have, uh, six of them rather had to drive up to Cooper and Camden.
+All of this happening is police are processing the scene and witnesses trying to digest the violence. This was something set up like, like, like, like they, they. Like they trapped him in that yard. Uh, enough nephew said he was having a good time. Next thing you heard was shooting. And he was running for his life.
+He got on the ground, he had to crawl. He stepped over a dead body, a dead body that would end up eventually being a young man that he grew up with.
+And the number of young people that were at this party were told now traumatized by this violence, seeing their friends and loved ones get shot a live picture here. You can see the New Jersey state police crime scene techs going in and out of the home. On the mailbox of this house, there were actually balloons and were told that really wasn‛t.
+Celebratory event as for the shooter or shooters, nobody has been arrested at this point, New Jersey, state police still very active in their investigation. They‛re still really trying to process how many victims they‛re dealing with since so many of them had to run or drive to different hospitals in Bridgeton or across south Jersey.
+A really devastating scene here. I can tell you in New Jersey governor, Phil Murphy has been in touch with the mayor of this part of Cumberland county, uh, offering assistance and resources as police here, really trying to figure out what happened and then pivoting to searching for the shooter or shooters who opened fire on the birthday party for now we‛re live in south Jersey.
+I‛m Randy Gyllenhaal, NBC 10 news, absolutely unfathomable. Randy. Thank you so much. We appreciate you keeping us updated on that.",
+   "subtitle":"https://raw.githubusercontent.com/Boga28/news/main/subtitle/14-shot-in-mass-shooting-at-new-jersey-house-party-nbc-new-york.srt",
+   "hardWord":"",
+   "authorName":"",
+   "channel":"NBC New York",
+   "audio":"https://raw.githubusercontent.com/Boga28/news/main/Auido/14-shot-in-mass-shooting-at-new-jersey-house-party-nbc-new-york.mp3",
+   "audioLength":"3",
+   "category":"",
+   "views":"",
+   "date":"2021-05-24T11:34",
+   "tag":""}, 
   
   {"id":"52",
    "header":"North Carolina Plans to Raise Marriage Age to 16",
@@ -174,54 +182,60 @@ bottom of the barrel –expression the worst possible condition, level, etc",
    "tag":""},  
   
    {"id":"51",
-   "header":"Men Fly Into a Plane",
-   "image":"https://www.newsinlevels.com/wp-content/uploads/2019/07/Depositphotos_106514600_l-2015-300x150.jpg",
-   "imageCaption":"Level 3",
-   "authorImage":"https://github.com/Boga28/news/raw/main/NewsChannelImages/News_in_Levels.png",
-   "metin":"Two professional French wingsuit flyers, Fred Fugen and Vince Reffet, jumped from the summit of Jungfrau in Switzerland and attempted to board a plane in mid-air.
-
-The incredible feat marked the 20th anniversary of a similar stunt by daredevil Patrick de Gayardon. 
-
-Around 100 practice flights in the Alps preceded the stunt. To everyone’s relief, the stunt, which the pair described as ‘the most intense project of their career’ was successful.
-
-On video, it looked like a scene from a Hollywood film rather than something real.
-    
-Difficult words: attempt (try), incredible (amazing), feat (a dangerous achievement), anniversary (the date when something happened in a previous year), stunt (a dangerous achievement), daredevil (a person who likes doing dangerous things)",
-   "subtitle":"https://raw.githubusercontent.com/Boga28/news/main/subtitle/men-fly-into-a-plane.srt",
+   "header":"Belarus forces plane to land and arrests journalist",
+   "image":"https://github.com/Boga28/news/raw/main/images/Belarus_forces_plane.jpg",
+   "imageCaption":"Belarusian authorities scrambled a fighter jet and flagged what turned out to be a false bomb alert to force a Ryanair plane to land and then detained an opposition-minded journalist who was on board.",
+   "authorImage":"https://github.com/Boga28/news/raw/main/NewsChannelImages/Reuters.png",
+   "metin":"Ella roofs has sparked international outrage by forcing a Ryan airplane to divert to Minsk before arresting an opposition journalist on board, Bella roofs grounded the Ryan air passenger plane, flying over its airspace on Sunday. For what turned out to be false claims of a bomb on board. The flight was on its way to Lithuania from Greece.
+Belorussian authorities ordered a military fighter jet to escort it to the capital city of Minsk. According to local media, Bella roofs, president Alexander, Luca Shanko had personally deployed the war plain. No explosives were found on board the jet. Instead when it reached the ground, authorities detained one of the passengers, Bella journalist, Roman proto Savage.
+26 year old proto Savage worked for online new service next up last year, when it broadcast mass protests against Luka Shanko, he‛s now wanted on extremism charges and is accused of inciting riots allegations. He denies. A passenger onboard. The aircraft said proto Savage had his head in his hands and was shaking.
+When he realized the flight was diverted to Minsk later, as he was led away, he reportedly remarked I‛ll get the death penalty. And then when it was announced that, uh, are we going to lengthen Minsk？ so the Romans stand up for Willie, opened the door, take the luggage, and then was trying to split there.
+Things like computer gave it to a girlfriend, iPhone or whatever. It‛s called his phone after seven hours and minutes, the flight retook its course and landed in Vilnius Lithuania with Dwayne as president get Tanis. Now Saida said Bellaruse must face consequences.
+It should be noted that such attacks on the opposition have recently become systematic. I‛m attending the European council tomorrow, and we will no doubt raise this issue as well. It‛s time to stop communicating with the regime just by making declarations concrete measures are needed, capable of changing the behavior of the Belarusian regime.
+Global leaders followed suit in their condemnation, including us secretary of state Antony Blinken and head of EDU‛s European commission or Cilla Vondra line who tweeted quote those responsible for the Ryanair. Hijacking must be sanctioned. Human rights groups say about 35,000 people have been detained in Belarus since August and more than 1000 criminal cases have been launched.",
+   "subtitle":"https://raw.githubusercontent.com/Boga28/news/main/subtitle/belarus-forces-plane-to-land-and-arrests-journalist.srt",
    "hardWord":"",
    "authorName":"",
-   "channel":"News In Levels",
-   "audio":"https://raw.githubusercontent.com/Boga28/news/main/Auido/men-fly-into-a-plane.mp3",
-   "audioLength":"1:09",
+   "channel":"Reuters",
+   "audio":"https://raw.githubusercontent.com/Boga28/news/main/Auido/belarus-forces-plane-to-land-and-arrests-journalist.mp3",
+   "audioLength":"3",
    "category":"",
    "views":"",
-   "date":"2021-08-23T22:13",
-   "tag":""}, 
+   "date":"2021-05-25T00:24",
+   "tag":""},
   
   {"id":"50",
-   "header":"Southern Lights",
-   "image":"https://knowledgenuts.com/wp-content/uploads/2016/03/iStock_000059557596_Medium.jpg",
-   "imageCaption":"Level 2",
-   "authorImage":"https://github.com/Boga28/news/raw/main/NewsChannelImages/News_in_Levels.png",
-   "metin":"French astronaut Thomas Pesquet took photographs from the International Space Station, and he made a video. Pesquet photographed the Aurora Australis, above the southern Indian Ocean between Asia and Antarctica.
-
-The International Space Station was 440 kilometers above the earth.
-
-The aurora is a beautiful display of lights which take place at the earth´s poles. Aurora Borealis takes place at the North Pole, and people call it the Northern Lights. Aurora Australis takes place at the South Pole, and people call it the Southern Lights.
-
-In Latin, Aurora is a mystical name which means ´dawn´. People can sometimes watch the auroras from Earth, but they look much more beautiful from space.
-   
-Difficult words: display (something that people can watch), mystical (related to people´s spirit or religion), dawn (the first light before sunrise)",
-   "subtitle":"https://raw.githubusercontent.com/Boga28/news/main/subtitle/southern-lights.srt",
+   "header":"After enduring the drought, farmers are struggling with the mouse plague",
+   "image":"https://github.com/Boga28/news/raw/main/images/after-enduring-the-drought-farmers.jpg",
+   "imageCaption":"After enduring one of the worst droughts in memory, farms and communities in western New South Wales are now enduring another natural disaster - millions of mice.",
+   "authorImage":"https://github.com/Boga28/news/raw/main/NewsChannelImages/ABC_News.jpg",
+   "metin":"They‛re the skin crawling images viewed by millions of people, worldwide. Millions of mice pouring out of sheds. Through farms, beds, kitchens, and overloads. Yes.
+It‛s making daily life and ordeal for those who live and farm in Western new south Wales, I went out one evening and so. Just literally thousands and thousands crawling over my haystack. They were all in the house out of the chook yard, just running around. You‛d go out in the evening and they were just, the ground was just covered in mass, running around it‛s devastating. It‛s um, I think it‛s 80% ruined.
+Hundreds of thousands of dollars worth of hay and grain across the region is now worthless. And many farmers have no option, but to burn it.
+So you can see here, they‛ve eaten all the tops off these plants, so that plant won‛t survive. And they‛ve gone right along here.
+Nick can amble and colonies working from sunrise to sunset, to Soho her winter crop. She‛s spreading poisonous bait in her fields to keep the rodents at bay, but it‛s not working. It was just so relentless. It just every day we were going out and putting out the mouse, pate, and I just didn‛t seem to be getting anywhere.
+The mouse plague is estimated to have cost farmers almost $100 million, but the endless waves of mice are also taking a toll on their mental health. Obviously, a lot of us live off rainwater. And so the fact that we‛ve got mice in our rainwater tanks has been, you know, bloody horrible, Frank, frankly, your one source of water on a property.
+And you‛ve got mice in it last week. The new south Wales government announced a $50 million support package. It includes free Bates, but no financial help for farmers spending hundreds of thousands of dollars on rodent control. The latest support that‛s been announced is eight months too late for us.
+And I‛ve spent over $40,000 with buying the mouse bait. We really need a bit of compensation for that now because we can‛t afford it. During the day, you wouldn‛t even know there‛s a mouse plague here. Although there is plenty of evidence of the damage they cause, but it‛s at night that they come out in their thousands, running across roads, crawling through homes and ravaging haystacks like this one bots.
+The worst part is if this problem isn‛t contained during winter, it‛s all going to get so much worse. Our concern is if we get a high level of over winter survival than. Well, ice will start to breed early from a high population base. And, um, then the, the number of mice will increase very dramatically at that point. CSI row researcher, Steve Henry has been working with farmers.
+He says the plague is showing no signs of slowing down and is actually spreading across the country. We‛re getting more and more reports through the, the Riverina and into Northern Victoria. And we‛re even starting to get some reports of really high numbers from the York peninsula in south Australia as well.
+People aren‛t spending  money. They‛re not. We‛re not the only ones in town that are struggling. We was what, a month ago that we were the only shop in this block. The play could prove the final straw for regional businesses like this family run bakery in narrow mind, Robert and Carrie Brennan say the triple whammy of drought, pandemic and mouse.
+Plague has seen business drop by 40%. They have gone from 28 to eight employees. Buying storage containers, buying diffusers to keep the smell out of the shop. Seeing customers seeing mice run around. I mean, no wonder were not doing that great at the moment, but what can we do？ So that‛s a huge impact on business while they can claim a thousand dollar rebate from the state government.
+The Brendan say their bakery and many other businesses in town may not survive the year. Something needs to be done. Otherwise we‛ll closed. I don‛t know if it will be still here at Christmas.
+People put on a brave face, they still go out and do their shopping. They still smile and interact that you know that at the back of their mind, the fact that the mice are in their homes, they‛re in the food preparation areas, they‛re in their beds, in their, in their linen press. And there‛s been no insurance.
+There‛s no coverage for rodent damage. In most cases and colonies fighting on to try to save her crop and bounce back from the drought she wants. The effects of the plague will eventually be felt in the cities we‛re producing crops. That feed the nation. So, uh, there‛ll be no bread  war. There‛ll be much higher prices for bread and biscuits and limp.
+If they‛re ruining valley crops, the beer prices will go up. So it‛s a flow on it. Hi, I‛m Lee sales. Thanks for watching this story. If you‛d like to watch more of seven 30 stories, they are on the left of your screen and tap on the button below to subscribe and get the latest from ABC news.",
+   "subtitle":"https://raw.githubusercontent.com/Boga28/news/main/subtitle/after-enduring-the-drought-farmers.srt",
    "hardWord":"",
    "authorName":"",
-   "channel":"News In Levels",
-   "audio":"https://raw.githubusercontent.com/Boga28/news/main/Auido/southern-lights.mp3",
-   "audioLength":"1:17",
+   "channel":"ABC News",
+   "audio":"https://raw.githubusercontent.com/Boga28/news/main/Auido/after-enduring-the-drought-farmers.mp3",
+   "audioLength":"7",
    "category":"",
    "views":"",
-   "date":"2021-08-23T09:55",
-   "tag":""},   
+   "date":"2021-05-26T23:38",
+   "tag":""},  
+    
   
   {"id":"49",
    "header":"The loneliest man in history",
@@ -376,45 +390,57 @@ I’m Bryan Lynn.",
    "date":"2021-08-22T09:55",
    "tag":""},   
   
-  {"id":"47",
-   "header":"Sinkhole in China",
-   "image":"https://www.newsinlevels.com/wp-content/uploads/2019/06/Depositphotos_234422102_l-2015-300x150.jpg",
-   "imageCaption":"level 1",
-   "authorImage":"https://github.com/Boga28/news/raw/main/NewsChannelImages/News_in_Levels.png",
-   "metin":"A huge sinkhole appears in a street. This happens in China. A motorcyclist is driving to the hole. He does not see it. He is looking at his phone. He is looking at his phone. He drives into the hole. He is OK.
-   
-   Difficult words: huge (very big), sinkhole (a space that appears in the ground very quickly), appear (come to a place quickly)",
-   "subtitle":"https://raw.githubusercontent.com/Boga28/news/main/subtitle/sinkhole-in-china.srt",
+ {"id":"47",
+   "header":"China announces 3-child policy to counter aging population | DW News",
+   "image":"https://github.com/Boga28/news/raw/main/images/china-announces-3-child-policy.jpg",
+   "imageCaption":"China has announced a major shift in its family planning policy: It will now allow couples to have up to three children.",
+   "authorImage":"https://github.com/Boga28/news/raw/main/NewsChannelImages/DW_News.jpg",
+   "metin":"China has announced a major shift in its family planning policy. It will now allow couples to have up to three children. The ruling communist party says it is scrapping a strict two child policy in response to the rapidly rising number of older people in the population. Beijing has enforced birth limits for four decades, but it‛s now concerned that a demographic crisis could add to pressure on its economy.
+And from one of the story let‛s bring in correspondent, Mathias, Berlinger, who‛s standing by in Beijing. Hi Mathias. It‛s good to see you. So tell us more about why China is enacting this policy now.
+Well, a few weeks ago, uh, the results of the latest census came out. China is counting its population every 10 years. And, uh, this, these results had to be delayed several times. Uh, nobody really knows why, but there has been a lot of speculation that China might have reached. It‛s peak, uh, population peak already.
+The census data, the officials said, no, that‛s not the case, but it is not far away. It will happen in the next two weeks or three years. And then the population will decline and China will be facing the same problems that many developed countries face an aging population, less workforce, but being on a development level and an income level that is much lower than these countries.
+And that could spell out. Yeah. Big problems for China. This is why it is a big concern to the government. This aging population last year was the year with the lowest birth rates, uh, in China‛s history. It was 1,2 children per women, quite far from the three children they‛re aiming at now. Yeah. You said it then, you know, there are many other countries facing this issue.
+So how serious is China as a demographic crisis?.
+Yeah. Well, the problem is that China has not reached the development levels and the income levels that other countries had reached when they started facing this problem. So, uh, basically, uh, having to feed, uh, a retired population that is, uh, So big, but with these income levels will be much more difficult than if the income levels were higher.
+The pension system is not very well developed, so it is a very big problem for China. So China‛s now allowing couples to have up to three children. Do you think we‛re going to see a baby boom in the coming years?.
+Yeah, four years ago, China lifted the ban on the second child and allow people to have two children. There was a very small baby boom in the following lead. Yeah. Already the year after the birth rate started declining again, having reached their lowest point last year, the pandemic might‛ve played into this very low number as well, but the trend is clear.
+The numbers are declining. It is not very likely that this is going to change just because the government puts the number at three it‛s much easier to prevent people from having children than to encourage them. China‛s government is finding out. Now there are many reasons for that. One reason is that, uh, the parents will have one now.
+Thinking about family planning or maybe around 30 years old, they, many of them have never known families with two children. This is the one child generation. And the other thing is in the highly competitive education system, many prefer to put all their resources into one child in order to give them better chances in life, correspondent, Mathias, billing, a reporting from Beijing.
+Thank you very much.",
+   "subtitle":"https://raw.githubusercontent.com/Boga28/news/main/subtitle/china-announces-3-child-policy.srt",
    "hardWord":"",
    "authorName":"",
-   "channel":"News In Levels",
-   "audio":"https://raw.githubusercontent.com/Boga28/news/main/Auido/sinkhole-in-china.mp3",
-   "audioLength":"0:19",
+   "channel":"DW News",
+   "audio":"https://raw.githubusercontent.com/Boga28/news/main/Auido/china-announces-3-child-policy.mp3",
+   "audioLength":"4",
    "category":"",
    "views":"",
-   "date":"2021-08-21T22:58",
-   "tag":""},   
+   "date":"2021-06-01T00:16",
+   "tag":""},    
   
-  {"id":"46",
-   "header":"Millions of Jellyfish",
-   "image":"https://www.newsinlevels.com/wp-content/uploads/2019/07/Depositphotos_346861124_l-2015-300x150.jpg",
-   "imageCaption":"level 1",
-   "authorImage":"https://github.com/Boga28/news/raw/main/NewsChannelImages/News_in_Levels.png",
-   "metin":"This news is from Crimea, Russia. Millions of jellyfish appear near the shore.
-
-There are so many that it looks like it is raining. We do not know why there are so many. This is a rare thing. The jellyfish is an old type of animal. It is between 500 and 700 million years old.
-   
-   Difficult words: appear (come, be), shore (seaside, coast, waterside), rare (not usual)",   
-   "subtitle":"https://raw.githubusercontent.com/Boga28/news/main/subtitle/millions-of-jellyfish.srt",
+ {"id":"46",
+   "header":"Colombia protests one month in: 45 dead and dozens disappeared | DW News",
+   "image":"https://github.com/Boga28/news/raw/main/images/Colombia_protests_one_month_iN_45.jpg",
+   "imageCaption":"Colombia is marking one month since a wave of deadly protests began. They started as an outcry against a controversial tax reform but soon turned into a national uprising against growing poverty and inequality...",
+   "authorImage":"https://github.com/Boga28/news/raw/main/NewsChannelImages/DW_News.jpg",
+   "metin":"Columbia is marking one month since a wave of deadly protests began, they started as an outcry against a controversial tax reform, but soon turned into a national uprising against growing poverty and inequality. Weeks of negotiations to end the unrest have failed to bear fruit and the prospect of a peaceful solution seemed to slip even further on Friday when president Eva Dukey announced.
+He was deploying the military. After more people died in demonstrations, plumes of smoke tower above the city of Papa. John like monuments to the resistance.
+A month of protest has turned streets across the country to smell, drink battles garbage from what they see as their fight for justice.
+because the message we want to deliver is that we‛re tired of so much injustice from this corrupt government of so much inequality. We‛re not asking for any handouts and we‛re not asking them to give us anything. We‛re only asking for an opportunity to grow for quality, not only for the rich, but also for the poor.
+The protests erupted when president  sought to raise taxes, to pay for the pandemic, the blow back forced him to kill the bill, but the outcry continued and outrage over the government‛s handling of a crisis that seen unemployment, double and inequality.
+Surge attempts to broken into the standoff have so far proved few towels. According to official figures, more than 45 people have been killed dozens, more disappeared, and thousands on both sides were injured, but human rights groups say the real toe is likely much higher and it‛s only likely to get worse in the days ahead.
+On Friday, president dookay said he‛s deploying the army to the epicenter of the unrest colleagues where at least three people were killed in the last 24 hours.
+actually be absolutely clear. Yeah. As of tonight we begin the maximum deployment of military assistance in the city of galleys and the department of it by islands of anarchy, do not have a place  no, boy. Next is still in restaurant pace. Meeting with Columbia‛s vice president on Friday, us secretary of state Anthony Blinken expressed his concern over the deepening crisis in the country, backing the people‛s right to protest peacefully for now, though, the deathly cat and mouse game on the streets of Columbia continues.",
+   "subtitle":"https://raw.githubusercontent.com/Boga28/news/main/subtitle/Colombia_protests_one_month_iN_45.srt",
    "hardWord":"",
    "authorName":"",
-   "channel":"News In Levels",
-   "audio":"https://raw.githubusercontent.com/Boga28/news/main/Auido/millions-of-jellyfish.mp3",
-   "audioLength":"0:33",
+   "channel":"DW News",
+   "audio":"https://raw.githubusercontent.com/Boga28/news/main/Auido/colombia-protests-one-month-in-45-dead-and-dozens-disappeared-dw-news.mp3",
+   "audioLength":"3",
    "category":"",
    "views":"",
-   "date":"2021-08-21T22:46",
-   "tag":""},   
+   "date":"2021-05-29T23:21",
+   "tag":""},     
   
    {"id":"45",
    "header":"Visiting Alaska's Distant Aleutian Islands",
@@ -467,23 +493,25 @@ I’m Anna Matteo.",
    "date":"2021-08-21T10:00",
    "tag":""},  
   
-   {"id":"44",
-   "header":"Cambodia´s Bamboo Trains",
-   "image":"https://www.newsinlevels.com/wp-content/uploads/2019/07/Depositphotos_187893630_xl-2015-300x150.jpg",
-   "imageCaption":"Level 2",
-   "authorImage":"https://www.newsinlevels.com/wp-content/themes/newsin/img/logo-news-in-levels.png",
-   "metin":"Cambodia plans to restore its train lines, which could mean the end of the famous bamboo trains.  The homemade trains, known as ‘norries’, are powered by small motorcycle engines. They can carry as many as 15 people.
-
-There are 40 norry drivers who have been working at the tracks for 20 years. With the tracks gone, they do not know how they will eat or care for their families. They are appealing to the government to find another place to run the norries. The government says that it may relocate the railway to a nearby district, Difficult words: restore (bring back), appeal (ask), district (area).",
-   "subtitle":"https://raw.githubusercontent.com/Boga28/news/main/subtitle/cambodias-bamboo-trains.srt",
+    {"id":"44",
+   "header":"Thousands Of Cubans Protest Against Government",
+   "image":"https://i.ytimg.com/vi/hP5YhLWyF7E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBaCBOOxX6gb1qNETlvJN5ykkPnUA",
+   "imageCaption":"Thousands of demonstrators spilled into the streets of Cuba this weekend, calling for an end to the 62-year communist regime. Demonstrations were sparked by chronic food shortages and blackouts.",
+   "authorImage":"https://www.youtube.com/channel/UCeY0bbntWzzVIaj2z3QigXg",
+   "metin":"Dozens of demonstrators spilling into the streets of Cuba. This weekend calling for an end of the 62 year communist regime, chance of we want freedom echoing through the streets, protestors, dumping trash and throwing rocks. Demonstrations sparked by chronic food shortages and blackouts in Miami protest in solidarity with her.
+We've been waiting for change for so long. Maria Figaro has family in Cuba. I don't even know what their situation is right now. An economic crisis exacerbated by the pen. And no access to approved COVID vaccines, a perfect storm for anti regime, anger that spread rapidly as more Cubans recently gained access to the internet.
+You can present Diaz canal today, blaming the unrest on US the lack of medicine and food. All those topics that are embedded in our society as dissatisfaction. What is the origin？ it's a blockade. They simply are not hearing the voices. Uh, of the Cuban people, uh, people deeply, deeply, deeply. Uh, the repression president Obama established diplomatic relations with Cuba and removed it from the US list of state sponsors of terrorism.
+But the Trump administration put Cuba back on that list, imposing tougher sanctions, which president Biden has not lifted. They call them the government government cubit or refrain from violence or attempts to silence the voice of the people. So far Biden's been much tougher on Cuba than president Obama was a senior officials saying when people protest for human rights, the administration will stand with them.
+Thanks for watching our YouTube channel follow today's top stories and breaking news by downloading the NBC news app.",
+   "subtitle":"https://raw.githubusercontent.com/Boga28/news/main/subtitle/Thousands_Of_Cubans_Protest_Against_Government.srt",
    "hardWord":"",
    "authorName":"",
-   "channel":"News In Levels",
-   "audio":"https://raw.githubusercontent.com/Boga28/news/main/Auido/cambodias-bamboo-trains.mp3",
-   "audioLength":"0:43",
+   "channel":"NBC NEWS",
+   "audio":"https://raw.githubusercontent.com/Boga28/news/main/Auido/thousands-of-cubans-protest-against-government.mp3",
+   "audioLength":"2:08",
    "category":"",
    "views":"",
-   "date":"2021-08-20T09:22",
+   "date":"2021-07-018T10:27",
    "tag":""},  
   
    {"id":"43",
@@ -909,31 +937,25 @@ I’m Alice Bryant. And I'm Dan Friedell.",
    "tag":""},   
   
   {"id":"36",
-   "header":"Snow in Bolivia and Peru",
-   "image":"https://www.newsinlevels.com/wp-content/uploads/2021/08/Depositphotos_216398954_l-2015-300x150.jpg",
-   "imageCaption":"...",
-   "authorImage":"https://www.newsinlevels.com/wp-content/themes/newsin/img/logo-news-in-levels.png",
-   "metin":"Bolivia and Peru are countries in South America. The weather is usually warm there. It does not snow. Snow falls only in the mountains.
-
-It snows there last week. Temperatures are below zero. It is perfect weather for snowfall. Snow covers parts of Bolivia and Peru. People do not expect it.
-
-People see snow for the first time. They are happy. They throw snowballs at each other in the streets.
-
-Drivers are not so happy. Many cars get stuck in the snow. They cannot move. Local authorities in a Bolivian town must cancel a football match.
-
-Weather forecasts say that cold weather will continue until the end of the week.
-Difficult words: temperature (how cold or warm something is), snowfall (the time when snow falls down from the sky), expect (to think that something will happen), forecast (when someone says what the situation will be in the future).
-",
-   "subtitle":"https://raw.githubusercontent.com/Boga28/news/main/subtitle/snow-in-bolivia-and-peru.srt",
+   "header":"Thousands Of Cubans Protest Against Government",
+   "image":"https://i.ytimg.com/vi/hP5YhLWyF7E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBaCBOOxX6gb1qNETlvJN5ykkPnUA",
+   "imageCaption":"Thousands of demonstrators spilled into the streets of Cuba this weekend, calling for an end to the 62-year communist regime. Demonstrations were sparked by chronic food shortages and blackouts.",
+   "authorImage":"https://www.youtube.com/channel/UCeY0bbntWzzVIaj2z3QigXg",
+   "metin":"Dozens of demonstrators spilling into the streets of Cuba. This weekend calling for an end of the 62 year communist regime, chance of we want freedom echoing through the streets, protestors, dumping trash and throwing rocks. Demonstrations sparked by chronic food shortages and blackouts in Miami protest in solidarity with her.
+We've been waiting for change for so long. Maria Figaro has family in Cuba. I don't even know what their situation is right now. An economic crisis exacerbated by the pen. And no access to approved COVID vaccines, a perfect storm for anti regime, anger that spread rapidly as more Cubans recently gained access to the internet.
+You can present Diaz canal today, blaming the unrest on US the lack of medicine and food. All those topics that are embedded in our society as dissatisfaction. What is the origin？ it's a blockade. They simply are not hearing the voices. Uh, of the Cuban people, uh, people deeply, deeply, deeply. Uh, the repression president Obama established diplomatic relations with Cuba and removed it from the US list of state sponsors of terrorism.
+But the Trump administration put Cuba back on that list, imposing tougher sanctions, which president Biden has not lifted. They call them the government government cubit or refrain from violence or attempts to silence the voice of the people. So far Biden's been much tougher on Cuba than president Obama was a senior officials saying when people protest for human rights, the administration will stand with them.
+Thanks for watching our YouTube channel follow today's top stories and breaking news by downloading the NBC news app.",
+   "subtitle":"https://raw.githubusercontent.com/Boga28/news/main/subtitle/Thousands_Of_Cubans_Protest_Against_Government.srt",
    "hardWord":"",
    "authorName":"",
-   "channel":"News In Levels",
-   "audio":"https://raw.githubusercontent.com/Boga28/news/main/Auido/snow-in-bolivia-and-peru.mp3",
-   "audioLength":"1:20",
+   "channel":"NBC NEWS",
+   "audio":"https://raw.githubusercontent.com/Boga28/news/main/Auido/thousands-of-cubans-protest-against-government.mp3",
+   "audioLength":"2:08",
    "category":"",
    "views":"",
-   "date":"2021-08-12T17:40",
-   "tag":""},     
+   "date":"2021-07-018T10:27",
+   "tag":""},      
   
    {"id":"35",
    "header":"Wandering Asian Elephants Heading Home",
@@ -1046,27 +1068,25 @@ I’m Jill Robbins.",
    "tag":""},    
   
   {"id":"33",
-   "header":"Babies Learn to Stand",
-   "image":"https://www.newsinlevels.com/wp-content/uploads/2019/06/Depositphotos_244034880_xl-2015-300x150.jpg",
-   "imageCaption":" ",
-   "authorImage":"https://www.newsinlevels.com/wp-content/themes/newsin/img/logo-news-in-levels.png",
-   "metin":"Since 1990, an Icelandic doctor has been teaching young babies to stand and balance.
-
-As a demonstration, he stood in a pool and held one baby up on his hand, and the baby managed to stand without falling. His simple techniques are to strengthen their spines and upper bodies and this puzzles a few doctors.
-
-Another doctor said that he has no idea how the doctor does this and it is not logical or normal, as babies usually learn to stand by leaning on a chair at seven to eight months old, 
-
-difficult words: puzzle (confuse).",
-   "subtitle":"https://raw.githubusercontent.com/Boga28/news/main/subtitle/babies-learn-to-stand-level-3.srt",
+   "header":"Thousands Of Cubans Protest Against Government",
+   "image":"https://i.ytimg.com/vi/hP5YhLWyF7E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBaCBOOxX6gb1qNETlvJN5ykkPnUA",
+   "imageCaption":"Thousands of demonstrators spilled into the streets of Cuba this weekend, calling for an end to the 62-year communist regime. Demonstrations were sparked by chronic food shortages and blackouts.",
+   "authorImage":"https://www.youtube.com/channel/UCeY0bbntWzzVIaj2z3QigXg",
+   "metin":"Dozens of demonstrators spilling into the streets of Cuba. This weekend calling for an end of the 62 year communist regime, chance of we want freedom echoing through the streets, protestors, dumping trash and throwing rocks. Demonstrations sparked by chronic food shortages and blackouts in Miami protest in solidarity with her.
+We've been waiting for change for so long. Maria Figaro has family in Cuba. I don't even know what their situation is right now. An economic crisis exacerbated by the pen. And no access to approved COVID vaccines, a perfect storm for anti regime, anger that spread rapidly as more Cubans recently gained access to the internet.
+You can present Diaz canal today, blaming the unrest on US the lack of medicine and food. All those topics that are embedded in our society as dissatisfaction. What is the origin？ it's a blockade. They simply are not hearing the voices. Uh, of the Cuban people, uh, people deeply, deeply, deeply. Uh, the repression president Obama established diplomatic relations with Cuba and removed it from the US list of state sponsors of terrorism.
+But the Trump administration put Cuba back on that list, imposing tougher sanctions, which president Biden has not lifted. They call them the government government cubit or refrain from violence or attempts to silence the voice of the people. So far Biden's been much tougher on Cuba than president Obama was a senior officials saying when people protest for human rights, the administration will stand with them.
+Thanks for watching our YouTube channel follow today's top stories and breaking news by downloading the NBC news app.",
+   "subtitle":"https://raw.githubusercontent.com/Boga28/news/main/subtitle/Thousands_Of_Cubans_Protest_Against_Government.srt",
    "hardWord":"",
    "authorName":"",
-   "channel":"News In Levels",
-   "audio":"https://raw.githubusercontent.com/Boga28/news/main/Auido/babies-learn-to-stand-level-3.mp3",
-   "audioLength":"0:41",
+   "channel":"NBC NEWS",
+   "audio":"https://raw.githubusercontent.com/Boga28/news/main/Auido/thousands-of-cubans-protest-against-government.mp3",
+   "audioLength":"2:08",
    "category":"",
    "views":"",
-   "date":"2021-08-08T10:18",
-   "tag":""},         
+   "date":"2021-07-018T10:27",
+   "tag":""},     
   
    {"id":"32",
    "header":"Four-year-old Girl Became Piano Player in One Year",
